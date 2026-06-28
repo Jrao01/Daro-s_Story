@@ -1,0 +1,3 @@
+Fuente plantas 
+
+Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser [[Sanguijuelas]], curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 207 años vivo

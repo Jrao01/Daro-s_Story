@@ -1,0 +1,2 @@
+
+Estos magos tienen todas sus escuelas en lagos y mares, usan su magia para bucear y llegar a esos lugares escondidos, sus academias suelen tener un aspecto y un diseño interior con pilares muy gruesos que soportan el peso del agua, así como ventanas escasas y pequeñas para reducir el riesgo de filtración de agua
