@@ -1,4 +1,4 @@
-Habilidad teletransportación de sol
+
 
 Habilidad conocida por muy pocos, sus únicos usuarios conocidos son los magos de [[Fuente sol]], afirman poder teletransportarse a la velocidad de la luz que es ilimitada, y aparecer en cualquier lugar que les plazca, sin embargo viene con el coste de envejecer de manera acelerada si la usas con demasiada frecuencia.
 

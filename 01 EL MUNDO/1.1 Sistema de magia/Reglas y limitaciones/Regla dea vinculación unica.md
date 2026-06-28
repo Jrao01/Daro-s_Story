@@ -1,3 +1,2 @@
-Regla de la vinculación única 
 
 los magos solo pueden consagrarse a una fuente de energía, aquellos que intentan usar varias fuentes a la vez solo logran ser mediocres en ambas, únicamente mediante la entrega total a la fuente que escojas podrás alcanzar todo su potencial

@@ -1,4 +1,4 @@
-Habilidad rayo solar
+
 
 El usuario creo un delgado rayo de luz que concentra la energía solar, es la habilidad más usada por los magos solares y la primera que aprenden 
 

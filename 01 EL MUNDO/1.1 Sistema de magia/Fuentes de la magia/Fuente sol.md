@@ -1,4 +1,4 @@
-Fuente sol
+
 
 Es la magia mas fuerte en términos de poder puro, siendo el sol la fuente mas grande de energía en el planeta los magos que se consagran al sol tienen una cantidad de poder casi ilimitada durante el día
 

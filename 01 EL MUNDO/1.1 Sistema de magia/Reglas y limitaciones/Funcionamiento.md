@@ -1,4 +1,4 @@
-Funcionamiento 
+
 
 La magia existe como una entrega total y entendimiento profundo del elemento escogido, al que debe vincularse y dedicar estudio y práctica, a mayor el entendimiento y estudio de las habilidades y del elemento mismo mayor será la capacidad del mago para usar su poder 
 

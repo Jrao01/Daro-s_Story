@@ -1,4 +1,4 @@
-**funcionamiento** 
+funcionamiento
 
 Un mago de fuego controla el fuego o lo puede crear? 
 

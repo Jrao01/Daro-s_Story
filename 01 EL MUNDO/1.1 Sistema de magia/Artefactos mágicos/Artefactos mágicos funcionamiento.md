@@ -1,1 +1,3 @@
 Son objetos creados para canalizar la magia en una forma muy específica, su especialización los vuelve muy eficaces en la tarea para la que fueron creados pero casi inútiles para cualquier otra, un artefacto funciona como una batería, solo puede funcionar por un tiempo limitado sin que un mago le de un constante flujo de la energía mágica correcta
+
+son utiles para que un aprendiz pueda usar magia mas avanzada a su nivel

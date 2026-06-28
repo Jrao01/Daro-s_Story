@@ -1,4 +1,3 @@
-Habilidad transformación animal 
 
 Principiante 
 Transformación parcial, el mago es capaz de transformar alguna parte de su cuerpo en la del animal con el que tenga el mayor vínculo 
