@@ -13,15 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente agua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Fuente agua"
+            }
+          },
+          {
+            "id": "787f274efbe0d97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente animales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente animales"
+            }
+          },
+          {
+            "id": "23986943b2d4e230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente electricidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente electricidad"
+            }
+          },
+          {
+            "id": "833595a4e064bbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente estrellas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente estrellas"
+            }
+          },
+          {
+            "id": "d1fa53eacf1ce076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente fuego.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente fuego"
+            }
+          },
+          {
+            "id": "708fd5fb1ff57846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente luna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente luna"
+            }
+          },
+          {
+            "id": "92a0dc9626723191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente oscuridad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente oscuridad"
+            }
+          },
+          {
+            "id": "d280b34022aad217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente plantas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente plantas"
+            }
+          },
+          {
+            "id": "ecf760d630aa6538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente sol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente sol"
+            }
+          },
+          {
+            "id": "1fb54acd53a4e0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente tierra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente tierra"
+            }
+          },
+          {
+            "id": "0d273a83c7f4206c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente viento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuente viento"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,10 +308,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "964fbe318cbee497",
+  "active": "a8cd6205f2b14e4c",
   "lastOpenFiles": [
-    "Paso1/Una mano ena cabeza.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente tierra.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente viento.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente sol.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente plantas.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente oscuridad.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente luna.md",
+    "Fuente oscuridad",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente fuego.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente estrellas.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente electricidad.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente animales.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia/Fuente agua.md",
+    "01 LA HISTORIA/Sistema de magia/Escuelas gremios y organización/Gremio del sol.md",
+    "01 LA HISTORIA/Sistema de magia/Fuentes de la magia",
+    "01 LA HISTORIA/Sistema de magia/Escuelas gremios y organización/Gremio agua.md",
+    "01 LA HISTORIA/Sistema de magia/Escuelas gremios y organización/Consejo central de magos.md",
+    "01 LA HISTORIA/Sistema de magia/Artefactos mágicos/Artefactos mágicos funcionamiento.md",
+    "01 LA HISTORIA/Sistema de magia/Escuelas gremios y organización",
     "README.md",
+    "01 LA HISTORIA/Sistema de magia/Artefactos mágicos",
+    "01 LA HISTORIA/Sistema de magia",
+    "04 REFERENCIAS",
+    "03 PREGUNTAS A RESPONDER",
+    "02 IDEAS",
+    "01 LA HISTORIA",
+    "Paso1/Una mano ena cabeza.md",
     "Paso1"
   ]
 }
