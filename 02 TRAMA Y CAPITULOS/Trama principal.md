@@ -1,0 +1,3 @@
+Comienzo
+Desarrollo 
+Cierre
