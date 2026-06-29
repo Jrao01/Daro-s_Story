@@ -1,8 +1,8 @@
 ### ESENCIA Y ARCO
 
-· Concepto de una línea: sanguijuela que acompaña al protagonista en su viaje 
+· Concepto de una línea:
 
-· Rol en la historia:acompaña a el protagonista y le enseña esgrima
+· Rol en la historia:
 
 · Mentira que cree:
 
@@ -50,5 +50,3 @@
 ### MAPA DE RELACIONES 
 
 ### IDEAS PARA EL PERSONAJE
-
-Es experto en combate con armas porque pasó años en un...monasterio? Academia? Lugar 🙂‍↕️ donde se aprende eso y así, entonces nada, que sabe mucho de pelear, así que instruye al protagonista con las diferentes armas que va obteniendo a lo largo de la serie
