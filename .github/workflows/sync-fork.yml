@@ -1,0 +1,21 @@
+name: Sync Fork
+
+on:
+  schedule:
+    # 03:00 UTC equivale a las 23:00 (11:00 PM) en Venezuela
+    - cron: '0 3 * * *'
+  workflow_dispatch:      
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    steps:
+      - name: Sync Fork
+        uses: TG1999/sync-fork-action@v1.2
+        with:
+          upstream: https://github.com/rieraojedadiegoalejandro-create/cuento.git
+          upstream_branch: main
+          target_branch: main
+          token: ${{ secrets.PAT }}
