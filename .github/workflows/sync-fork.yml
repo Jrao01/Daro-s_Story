@@ -2,7 +2,8 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 3 * * *' # 11:00 PM Venezuela (03:00 UTC)
+    # 03:00 UTC equivale a las 11:00 PM (23:00) en Venezuela
+    - cron: '0 3 * * *'
   workflow_dispatch:      
 
 jobs:
@@ -15,15 +16,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
+          fetch-depth: 0 # Importante para traer todo el historial
 
       - name: Configurar Git
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git remote add upstream https://github.com/rieraojedadiegoalejandro-create/cuento.git
+          # Añadir upstream solo si no existe
+          git remote add upstream https://github.com/rieraojedadiegoalejandro-create/cuento.git || echo "Remote upstream ya existe"
 
       - name: Sincronizar con el origen
         run: |
           git fetch upstream main
-          git merge upstream/main
+          # Se permite la unión de historiales diferentes
+          git merge upstream/main --allow-unrelated-histories -m "Sincronización automática con upstream"
           git push origin main
