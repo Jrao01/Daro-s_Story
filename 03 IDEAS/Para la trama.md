@@ -1,3 +1,4 @@
+Los villanos originales, no son los villanos, solo eran una consecuencia del villano real
 # VIDA ANTES DE LA MAGIA
 
 # INICIO EN LA MAGIA
