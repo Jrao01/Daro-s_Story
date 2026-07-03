@@ -1,3 +1,7 @@
+No darle al protagonista lo que quiere sino lo que necesita
+
+En algún momento tendrá que decidir entre probar que puede ser bueno, o seguir el mismo camino de sus predecesores 
+
 Los villanos originales, no son los villanos, solo eran una consecuencia del villano real
 # VIDA ANTES DE LA MAGIA
 
