@@ -1,0 +1,1 @@
+Los dioses no existen, pero la gente que cree en ellos si, y puede llevarlos a hacer cosas buenas o malas si creen que es lo que pasará, ser virtuosos o corromperse
