@@ -1,0 +1,1 @@
+ Hace muchos años los magos de oscuridad fueron contratados por un reino para acabar con todos los magos del sol, estos al ver que no podían vencerlos por si solos convencieron a los demás magos de que era un ataque a todos los magos y que debían unir fuerzas para derrotarlos 
