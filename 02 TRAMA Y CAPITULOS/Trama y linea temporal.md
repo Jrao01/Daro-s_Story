@@ -26,15 +26,18 @@ Al llegar al país de los magos protagonista kun y su amiga esperan a que llegue
 
 Ocurre la reunión y el protagonista intenta observarlos, pero es descubierto por el mago de luna, no le creen que sea un mago de oscuridad hasta que lo demuestra
 
-al hacerlo todos tienen una reacción adversa, discuten y no tardan en atacarlo los magos más severos, queriendo neutralizarlo antes de darle la oportunidad de hacer algo
+Al hacerlo hay reacciones divididas, hay quienes quieren darle una oportunidad, los que creen que pueden guiarlo para asegurarse de que no sea como los anteriores y los que están seguros de que la única respuesta es eliminarlos de una vez antes que se vuelva un problema mayor, en medio de la discusión 🫯 algunos de los magos intentan atacarlo y tiene que escapar 
 
 Apenas logra escapar vivo del lugar y ahora sabe que los de su tipo son odiados y que debe moverse ahora con cuidado de no ser descubierto 
 
+A raíz de lo ocurrido en el consejo en el reino sol se discute sobre lo ocurrido y se revela que la extinción de los magos de oscuridad 🌑 fue planeada por el reino sol 🌞, espias del gremio animal escuchan esto, gremio animal se vuelve primer aliado de protagonista kun
+
 En su camino escapando se encuentra con el monasterio de sanguijuelas, un lugar donde las sanguijuelas se dedican a refinar todas las habilidades posibles aprovechando su larga vida 
 
-Ahí espera encontrar quien lo ayude a leer su libro, no lo consigue y uno de los magos animales que vió a amiga fuera del país de los magos la vuelve a ver ahora, no puede ser tanta coincidencia, los ataca y termina lastimando gravemente a amiga 
+Ahí espera encontrar quien lo ayude a leer su libro, no lo consigue y uno de los magos de tierra que vió a amiga fuera del país de los magos la vuelve a ver ahora, no puede ser tanta coincidencia, los ataca y termina lastimando gravemente a amiga 
 
 En un momento de desesperación por salvar a amiga recurren al gremio planta, con quiénes terminan haciendo una alianza y descubriemdo que existe un claustro de los magos de estrellas donde está el guardian de los archivos,el encargado de organizar todo el conocimiento mágico 
+
 
 PUNTO MEDIO
 

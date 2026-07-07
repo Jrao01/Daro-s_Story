@@ -1,0 +1,1 @@
+Aldeas ocultas entre profundos bosques, los magos de plantas tienen a tener poco o ningún contacto con la civilización, prefieren vivir alejados sin que nadie los moleste 

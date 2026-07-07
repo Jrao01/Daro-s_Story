@@ -1,0 +1,1 @@
+Arma con forma de hacha, con planchas de metal en lugar de los filos, utilizadas por los guerreros tierra para canalizar las ondas sísmicas en una dirección concreta 
