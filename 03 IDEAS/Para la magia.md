@@ -5,8 +5,7 @@ funcionamiento
 Los magos de luna pueden ver la dimension sin tiempo durante ciertas fases de la luna
 
 La verdadera fuente de poder de la magia de oscuridad es un agujero negro
-
-Una mago de estrella le hace una regresión temporal astral a un mago de animales para que vaya a conocer a los dinosaurios 
+ 
 
 En algún momento existirán los magos nucleares
 

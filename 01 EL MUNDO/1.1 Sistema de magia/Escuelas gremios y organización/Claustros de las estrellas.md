@@ -1,1 +1,0 @@
-Los observatorios de estrellas son fortalezas dónde los magos dedican sus días a registrar el conocimiento, son de naturaleza recatada y evitan en lo posible involucrarse en los conflictos

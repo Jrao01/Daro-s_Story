@@ -1,14 +1,3 @@
- (Setting, Personajes, Trama)
-
- En qué consiste
-
-Sanderson estructura el worldbuilding en tres categorías fundamentales: el escenario físico (geografía, clima, flora/fauna), el escenario cultural (leyes, religiones, tecnología, normas sociales) y el sistema de magia (reglas, limitaciones, impacto social) .
-
-Por qué es útil para tu historia
-
-Tener estos pilares claros te ayuda a organizar toda la información de tu imperio. El escenario físico te permite detallar cómo el desierto y las cordilleras moldean la vida; el cultural te da espacio para desarrollar la estructura política, religión y costumbres de tu imperio persa-árabe; y el sistema mágico define cómo funciona la vinculación a un elemento que estás desarrollando .
-
-Ejemplo de aplicación: Al hacer tu ficha de país, usa estos tres pilares como secciones principales. Así aseguras que el clima árido no sea solo un telón de fondo, sino que influya en la vestimenta, la arquitectura y las rutas comerciales de tu imperio.
 
 ---
 El Propósito del Worldbuilding: Servir a la Historia
@@ -38,7 +27,6 @@ Tienes un concepto central muy potente: "magos que se vinculan a un único eleme
 Ejemplo de Sanderson: En Mistborn, la magia de Alomancia no surgió para esa serie, sino que fue adaptada de una novela anterior, pero Sanderson la profundizó hasta que cada aspecto de la sociedad y la trama giraba en torno a sus reglas .
 
 ---
-
 Evitar la "Enfermedad del Constructor de Mundos"
 
 En qué consiste

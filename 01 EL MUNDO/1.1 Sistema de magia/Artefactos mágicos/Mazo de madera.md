@@ -1,0 +1,1 @@
+Baston de madera de 50cm de largo con una gruesa bola de madera en la punta, al canalizar energía mágica a través de él las puas que haya perdido vuelven a crecer 

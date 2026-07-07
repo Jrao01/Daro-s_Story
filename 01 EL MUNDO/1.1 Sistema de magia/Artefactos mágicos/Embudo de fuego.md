@@ -1,0 +1,1 @@
+Arma utilizada para canalizar la magia de fuego haciendola más certera y controlable, cuenta con una recámara esférica con una apertura donde entra el puño del mago, unida a un largo cañón que dirige los proyectiles 
