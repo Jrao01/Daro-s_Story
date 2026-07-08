@@ -1,0 +1,1 @@
+Crear plantillas de gremio, organizar los personajes 

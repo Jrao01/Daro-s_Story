@@ -1,1 +1,0 @@
-Magia con alto poder destructivos, pero con poco control, estos magos además de la magia se han vuelto expertos en dominar la herrería, pues solo mediante artefactos mágicos pueden controlar su poder 

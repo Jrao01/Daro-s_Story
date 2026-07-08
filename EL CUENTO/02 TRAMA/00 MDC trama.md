@@ -1,0 +1,4 @@
+## Estructura 
+## Línea temporal 
+## Subtramas 
+

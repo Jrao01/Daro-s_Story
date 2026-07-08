@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 EL MUNDO/1.1 Sistema de magia/Artefactos mágicos/Martillo-hacha sismico.md",
+                "file": "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Martillo-hacha sismico"
+              "title": "Capitulo 1"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#VIDA",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 EL MUNDO/1.1 Sistema de magia/Artefactos mágicos/Martillo-hacha sismico.md",
+            "file": "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,43 +167,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e44b769e0a77a49",
+  "active": "16b0c02088667ae8",
   "lastOpenFiles": [
-    "05 REFERENCIAS/De escritura/Crear la motivación.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Artefactos mágicos/Martillo-hacha sismico.md",
-    "02 TRAMA Y CAPITULOS/Trama y linea temporal.md",
-    "05 REFERENCIAS/De escritura/Crear la trama.md",
-    "05 REFERENCIAS/De worldbuilding/La leyes de la magia.md",
-    "05 REFERENCIAS/De worldbuilding/Los Tres Pilares del Mundo.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Aldeas de las plantas.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Aldeas de las nubes.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Fuentes de la magia/Fuente viento.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Consejo central de magos.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Talleres del fuego.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Fuentes de la magia/Fuente agua.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Gremio agua.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Escuelas de las estrellas.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Clanes animales.md",
-    "03 IDEAS/Temas.md",
-    "03 IDEAS/Para personajes.md",
-    "03 IDEAS/Para paises.md",
-    "03 IDEAS/Para objetos.md",
-    "03 IDEAS/Para los magos.md",
-    "03 IDEAS/Para la trama.md",
-    "03 IDEAS/Para la magia.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Fuentes de la magia/Fuente luna.md",
-    "03 IDEAS/Orígenes y explicaciones.md",
-    "03 IDEAS/Comienzo de la historia.md",
-    "01 EL MUNDO/1.1 Sistema de magia/Escuelas gremios y organización/Servidores del sol.md",
-    "/03 IDEAS",
-    "/01 EL MUNDO/1.1 Sistema de magia/Reglas y limitaciones",
-    "/01 EL MUNDO/1.1 Sistema de magia/Otros seres mágicos",
-    "/01 EL MUNDO/1.1 Sistema de magia/Habilidades mágicas/Habilidades tierra",
-    "/01 EL MUNDO/1.1 Sistema de magia/Habilidades mágicas/Habilidades sol",
-    "/01 EL MUNDO/1.1 Sistema de magia/Habilidades mágicas/Habilidades animales",
-    "/01 EL MUNDO/1.1 Sistema de magia/Habilidades mágicas",
-    "/01 EL MUNDO/1.1 Sistema de magia/Fuentes de la magia",
-    "/01 EL MUNDO/1.1 Sistema de magia/Artefactos mágicos",
-    "/01 EL MUNDO/1.1 Sistema de magia"
+    "EL CUENTO/03 MUNDO/Personajes/Siegfried Gorem.md",
+    "EL CUENTO/06 REFERENCIAS/Nombres.md",
+    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
+    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
+    "EL CUENTO/04 IDEAS/00 MDC ideas.md",
+    "EL CUENTO/03 MUNDO/Personajes/Plantas-Qin.md",
+    "EL CUENTO/06 REFERENCIAS/Historia y geografía.md",
+    "EL CUENTO/03 MUNDO/Geografía/Reinos.md",
+    "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
+    "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
+    "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
+    "Z/05 REFERENCIAS/Historia y geografía/Tecnología en 1500.md",
+    "Andy heterosexual.md",
+    "EL CUENTO/06 REFERENCIAS/Worldbuilding.md",
+    "Z/05 REFERENCIAS/De worldbuilding/Los Tres Pilares del Mundo.md",
+    "Z/05 REFERENCIAS/De worldbuilding/La leyes de la magia.md",
+    "EL CUENTO/06 REFERENCIAS/De escritura.md",
+    "Z/05 REFERENCIAS/De escritura/Crear la trama.md",
+    "EL CUENTO/06 REFERENCIAS/00 MDC referencias.md",
+    "Z/05 REFERENCIAS/De escritura/Crear la motivación.md",
+    "EL CUENTO/05 PREGUNTAS/Preguntas pendientes.md",
+    "Z/03 IDEAS/Comienzo de la historia.md",
+    "Z/03 IDEAS/Para personajes.md",
+    "Z/03 IDEAS/Situaciones concretas que ya veré donde meto.md",
+    "Z/03 IDEAS/Para paises.md",
+    "01 - MANUSCRITO",
+    "EL CUENTO/03 MUNDO/Personajes",
+    "EL CUENTO/03 MUNDO/Geografía",
+    "EL CUENTO/03 MUNDO/Magia",
+    "EL CUENTO/04 IDEAS",
+    "EL CUENTO/07 PLANTILLAS",
+    "EL CUENTO/06 REFERENCIAS",
+    "EL CUENTO/05 PREGUNTAS",
+    "EL CUENTO/03 MUNDO",
+    "EL CUENTO/02 TRAMA"
   ]
 }

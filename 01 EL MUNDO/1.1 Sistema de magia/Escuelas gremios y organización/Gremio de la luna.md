@@ -1,1 +1,0 @@
-Estos magos hacen un "voto de silencio", se dedican a observar, y lo ven todo, pero no dicen nada, al menos no en el mundo físico, si bien no tienen la habilidad de entrar a los demás mundos, pueden asomarse a ellos, y se comunican ahí, sacan su alma momentáneamente de su cuerpo para hablar con sus compañeros 

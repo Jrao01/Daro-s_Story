@@ -1,1 +1,0 @@
-Anillos creados por los magos de oscuridad que sirven como llave para entrar a la dimensión oscura 

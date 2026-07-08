@@ -1,1 +1,0 @@
-Suelen usar su magia para moverse grandes distancias llevados por el viento, sus habilidades ofensivas se pasan en daño no letal, son útiles para el control de masas pero no muy capaces de herir gravemente o matar a una persona 
