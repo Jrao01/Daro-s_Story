@@ -735,6 +735,8 @@ Los observatorios de estrellas son fortalezas dónde los magos dedican sus días
 
 Recopilan no solo textos históricos sino también los libros instructivos de cada gremio, como un respaldo en caso de que alguno los perdiera 
 
+Fueron los inventores del actual calentadario cuyo uso se ha extendido en la mayor parte del mundo, el calendario estelar que divide los años en dos épocas que se repiten, la era del norte y la era del sur, según que estrella brille más en el cielo, cada era dura 500 años
+
 ---
 
 ### Cultura y costumbres
