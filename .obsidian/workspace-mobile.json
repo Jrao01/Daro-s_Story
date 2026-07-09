@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
+                "file": "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla de personajes"
+              "title": "Mago de oscuridad"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "4e44b769e0a77a49",
   "lastOpenFiles": [
+    "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
+    "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
     "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
     "EL CUENTO/01 MANUSCRITO/Borrador.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
@@ -193,8 +195,6 @@
     "EL CUENTO/06 REFERENCIAS/00 MDC referencias.md",
     "Z/05 REFERENCIAS/De escritura/Crear la motivación.md",
     "EL CUENTO/05 PREGUNTAS/Preguntas pendientes.md",
-    "Z/03 IDEAS/Comienzo de la historia.md",
-    "Z/03 IDEAS/Para personajes.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",
