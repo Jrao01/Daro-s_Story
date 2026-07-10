@@ -3,6 +3,7 @@ Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los
 
 ## Para la magia
 
+Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los árboles 
 
 La verdadera fuente de poder de la magia de oscuridad es un agujero negro
  
