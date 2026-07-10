@@ -39,6 +39,8 @@ Magia que vincula al usuario con la naturaleza de las sombras y la oscuridad, da
 
 El poder de esta magia no está ligado a la 
 Oscuridad en si misma, se alimenta de la dimensión oscura, a la cual un mago de oscuridad ™ avanzado es capaz de acceder por completo y moverse libremente dentro de ella
+
+Para activar cualquier habilidad, el usuario debe cerrar los ojos, pues la luz le impide canalizar 
 ## Plantas
 
 Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser  curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 307 años vivo
