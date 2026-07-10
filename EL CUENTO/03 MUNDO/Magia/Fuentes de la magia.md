@@ -42,7 +42,7 @@ Oscuridad en si misma, se alimenta de la dimensión oscura, a la cual un mago de
 
 Para activar cualquier habilidad, el usuario debe cerrar los ojos, pues la luz le impide canalizar 
 
-Consecuencias: a medida que la naturaleza de la energía del usuario, estar expuesto a la luz(especialmente la luz del sol)le resulta cada vez más molesto 
+Consecuencias: a medida que la naturaleza de la energía del usuario, estar expuesto a la luz(especialmente la luz del sol)le resulta cada vez más molesto, su vista se vuelve muy sensible a la luz, hasta el punto en que ven perfectamente en la oscuridad, pero son incapaces de ver en el día sin algo que les cubra los ojos
 ## Plantas
 
 Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser  curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 307 años vivo
