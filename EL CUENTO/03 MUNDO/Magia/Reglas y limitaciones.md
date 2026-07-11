@@ -1,9 +1,8 @@
 
 ## Funcionamiento general
-- la magia es la capacidad de cambiar, comportamiento o forma de un tipo de energía según lo desee el usuario, no sé puede cambiar la naturaleza en si misma de la energía sin la ayuda de objetos canalizadores, así como tampoco se puede crear energía, toda la energía usada debe provenir de alguna fuente, el mago que desee usarla vincilará su alma a esta fuente y mediante su estudio y entendimiento es capaz de aprovecharla 
+La magia es la capacidad de transformar la energía tanto propia como de la fuente escogida, no sé puede usar magia más allá de las limitaciones de la energía disponible, pues no se puede crear, solo modificar
 
-## Regla de vinculación única
-- (cada mago solo tiene una fuente)
+Un mago, para alcanzar todo su potencial debe vincularse a una sola fuente de energía, pues mientras más se domina más comienza la energía propia a adoptar la forma de la fuente, cambiar la fuente de energía seria tratar de retroceder el cambio que ya ha adoptado el cuerpo
 
-## Límites y costes
-- (qué pasa si se abusa, muertes, etc.)
+Existen rituales de extremo peligro capaces de eliminar los cambios energéticos del cuerpo, para eliminarlos de manera definitiva o adoptar otra fuente de energía 
+

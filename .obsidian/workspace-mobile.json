@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
+                "file": "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mago de oscuridad"
+              "title": "Capitulo 1"
             }
           }
         ]
@@ -169,14 +169,21 @@
   },
   "active": "4e44b769e0a77a49",
   "lastOpenFiles": [
-    "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
-    "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
-    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
-    "EL CUENTO/01 MANUSCRITO/Borrador.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
-    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
-    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
+    "EL CUENTO/02 TRAMA/Subtramas.md",
+    "EL CUENTO/02 TRAMA/Linea temporal.md",
+    "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
+    "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
+    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
+    "EL CUENTO/01 MANUSCRITO/Borrador.md",
+    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
+    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
+    "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
+    "EL CUENTO/03 MUNDO/Magia/00 MDC magia.md",
+    "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
+    "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
+    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
     "EL CUENTO/03 MUNDO/Personajes/Siegfried Gorem.md",
     "EL CUENTO/06 REFERENCIAS/Nombres.md",
     "EL CUENTO/04 IDEAS/00 MDC ideas.md",
@@ -184,17 +191,10 @@
     "EL CUENTO/06 REFERENCIAS/Historia y geografía.md",
     "EL CUENTO/03 MUNDO/Geografía/Reinos.md",
     "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
-    "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
     "Z/05 REFERENCIAS/Historia y geografía/Tecnología en 1500.md",
     "Andy heterosexual.md",
     "EL CUENTO/06 REFERENCIAS/Worldbuilding.md",
     "Z/05 REFERENCIAS/De worldbuilding/Los Tres Pilares del Mundo.md",
-    "Z/05 REFERENCIAS/De worldbuilding/La leyes de la magia.md",
-    "EL CUENTO/06 REFERENCIAS/De escritura.md",
-    "Z/05 REFERENCIAS/De escritura/Crear la trama.md",
-    "EL CUENTO/06 REFERENCIAS/00 MDC referencias.md",
-    "Z/05 REFERENCIAS/De escritura/Crear la motivación.md",
-    "EL CUENTO/05 PREGUNTAS/Preguntas pendientes.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",

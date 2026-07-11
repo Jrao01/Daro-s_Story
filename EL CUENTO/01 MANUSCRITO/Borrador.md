@@ -1,0 +1,1 @@
+—significa que tienes potencial para aprender la 

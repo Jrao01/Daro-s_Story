@@ -7,7 +7,7 @@ Hace muchos años los magos de oscuridad fueron contratados por un reino para ac
  
  Conocemos al personaje, es un criador de cerdos disconforme con su vida y su conflicto interno es que no encuentra sentido y está seguro de que morirá siendo los mismo sin nunca lograr nada 
 
-Descubrimos para quien trabaja,que no tiene familia y que su vida es en general andina nunca tuvo tiempo de pensar en lo que le gusta ni en qué quiere hacer
+Descubrimos para quien trabaja,que no tiene familia y que su vida es en general anodina nunca tuvo tiempo de pensar en lo que le gusta ni en qué quiere hacer
 
 Un día lo envían a buscar leña en el bosque, de desata una tormenta y buscando refugio llega a una cabaña/cueva 
 
