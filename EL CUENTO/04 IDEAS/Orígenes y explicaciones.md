@@ -49,6 +49,7 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
+- el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
 
 ## Temas
 - (temas principales de la historia)
