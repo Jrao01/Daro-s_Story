@@ -48,7 +48,7 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 - 
 
 ## Situaciones concretas
-- (escenas que ya veré dónde poner)
+- pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 
 ## Temas
 - (temas principales de la historia)
