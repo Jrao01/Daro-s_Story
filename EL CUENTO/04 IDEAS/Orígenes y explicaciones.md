@@ -3,6 +3,8 @@ Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los
 
 ## Para la magia
 
+En la dimensión de oscuridad no existe el sonido.
+
 Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los árboles 
 
 La verdadera fuente de poder de la magia de oscuridad es un agujero negro
@@ -48,7 +50,8 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 - 
 
 ## Situaciones concretas
-- (escenas que ya veré dónde poner)
+- pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
+- el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
 
 ## Temas
 - (temas principales de la historia)
