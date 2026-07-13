@@ -27,6 +27,8 @@ Ellos fueron los responsables de iniciar el conflicto con los magos de oscuridad
 
 ___
 Dos magos de animales convertidos en moscas descubren que los responsables del genocidio fueron realmente los magos del sol y se vuelven aliados del mago de oscuridad™ 🌑 
+___
+La magia de oscuridad terminará siendo magia de absorsion? Y por eso fue que los eliminaron, se habrían vuelto demasiado peligros
 
 ## Para los magos
 los magos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
