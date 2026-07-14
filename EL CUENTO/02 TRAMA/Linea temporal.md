@@ -33,9 +33,9 @@ Ocurre la reunión y el protagonista intenta observarlos, pero es descubierto po
 
 Al hacerlo hay reacciones divididas, hay quienes quieren darle una oportunidad, los que creen que pueden guiarlo para asegurarse de que no sea como los anteriores y los que están seguros de que la única respuesta es eliminarlos de una vez antes que se vuelva un problema mayor, en medio de la discusión 🫯 algunos de los magos intentan atacarlo y tiene que escapar 
 
-Apenas logra escapar vivo del lugar y ahora sabe que los de su tipo son odiados y que debe moverse ahora con cuidado de no ser descubierto 
+Apenas logra escapar vivo del lugar y ahora sabe que los de su tipo son odiados porque hace mucho tiempo hubo una guerra en la que intentaron acabar con todos los demás magos, y que debe moverse ahora con cuidado de no ser descubierto 
 
-A raíz de lo ocurrido en el consejo en el reino sol se discute sobre lo ocurrido y se revela que la extinción de los magos de oscuridad 🌑 fue planeada por el reino sol 🌞, espias del gremio animal escuchan esto, gremio animal se vuelve primer aliado de protagonista kun
+A raíz de lo ocurrido en el consejo en el reino sol se discute sobre lo ocurrido y se revela que la extinción de los magos de oscuridad oscuridad fue planeada por el reino sol, estos eran el único objetivo de los magos de oscuridad y como no podían vencerlos convencieron a todos los demás magos de wue también irían por ellos, espias del gremio animal escuchan esto, gremio animal se vuelve primer aliado de protagonista kun
 
 En su camino escapando se encuentra con el monasterio de sanguijuelas, un lugar donde las sanguijuelas se dedican a refinar todas las habilidades posibles aprovechando su larga vida 
 
@@ -53,16 +53,14 @@ El guardian de los archivos le tiende una trampa para que en su salida se consig
 Ahora se sabe que estuvo ahí, queman todos los archivos sobre magia de oscuridad y empiezan una cacería aún mas intensa para encontrarlo 
 
 
-
 Protagonista kun entiende que no puede solo seguir escapando por siempre, piensa en un plan para 
 **SEGUNDO PUNTO DE PRESIÓN** 
 
- 
-
+ Aún sin escribir 
 
  SEGUNDO GIRO 
 
-
+Aún sin escribir
 
 RESOLUCIÓN
 
