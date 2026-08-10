@@ -51,8 +51,7 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 
 ## Para personajes
 - las 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
-- 
-
+- nomis es el principal proveedor de armas de _la pandilla_ es un inventor que se la pasa creando nuevas formas de usar su magia se electricidad 
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
