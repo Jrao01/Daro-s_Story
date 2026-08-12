@@ -37,14 +37,17 @@ Inventan naves voladoras o globos para cargar cosas pues cuando vuelan transform
 ___
 
 Los magos de sombra eran una organización de asesinos a sueldo que en un punto fueron contratados por alguien que quería eliminar a los magos, fueron poco a poco asesinando más magos de cada facción hasta que se descubrió que eran ellos, en ese momento se creó el concejo central de magos para luchar todos unidos contra ellos, surgió la idea de que la magia de oscuridad corrompe, de que la fuente de su poder es  _el señor oscuro_ pero realmente no, eran unos cabrones y ya, el protagonista tiene la tentación y piensa también que es el señor oscuro corrompiendolo, luego acepta que no hay ningún señor oscuro, pero está cansado de que todos estén en su contra 
+
+Los magos de sombra deben usar lentes de sol, los magos de fuego los inventaron para ellos
 ___
 Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de fuego 
 
 ___
 Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
 
+
 ## Para países
-- (ideas)
+- la moneda del reino del sol es de aluminio 
 
 ## Para objetos
 - (ideas)
@@ -55,6 +58,7 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
+- los magos de estrellas inventaron el calendario cuyo uso se extendió por todo el mundo, dividen el año en 13 meses y las eras en ciclos de 600 años llamados era del norte y era del sur según que estrella brilla más en el cielo 
 
 ## Temas
 - (temas principales de la historia)
