@@ -44,6 +44,8 @@ Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de
 
 ___
 Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
+___
+El poder de los magos de luna se divide en cuatro cuartos principales, mientras más aprenden se van ramificando 
 
 
 ## Para países
