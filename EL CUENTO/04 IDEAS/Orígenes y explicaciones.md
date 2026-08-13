@@ -45,9 +45,21 @@ Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de
 ___
 Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
 ___
-El poder de los magos de luna se divide en cuatro cuartos principales, mientras más aprenden se van ramificando 
+El poder de los magos de luna se divide en dos partes, que a si vez se dividen en dos cada una
+                 /Sentimientos 
+         /Corazón 
+Personas.                  \magia
+                /Intención 
+         \mente  
+                 \salud
 
-
+                    / Temperatura 
+         /Material 
+Espacio.                            \(pendiente )
+                   /Mundo de luz 
+         \intangible
+                  \mundo de oscuridad 
+Los estudiantes de esta magia se dedican casi enteramente al estudio del espacio (menguante ) ya que se considera que el estudio de las personas puede ser usado con fines malvados y va en contra de la ideología pacifista de los magos de luna
 ## Para países
 - la moneda del reino del sol es de aluminio 
 - un continente que esté separado en tres niveles, cada nivel con peligros más grandes que el anterior, hay monos voladores, insectos gigantes que son huecos por dentro
@@ -61,7 +73,9 @@ El poder de los magos de luna se divide en cuatro cuartos principales, mientras 
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
-- los magos de estrellas inventaron el calendario cuyo uso se extendió por todo el mundo, dividen el año en 13 meses y las eras en ciclos de 600 años llamados era del norte y era del sur según que estrella brilla más en el cielo 
+- los magos de estrellas inventaron el calendario cuyo uso se extendió por todo el mundo, dividen el año en 13 meses y las eras en ciclos de 300 años llamados era del norte y era del sur según que estrella brilla más en el cielo 
+- la orden de asesinos de los magos de oscuridad fue creada en un principio por las sanguijuelas para ser sus asesinos personales, decidieron acabar con ellos cuando descubrieron que su poder podía salirse de control durante los eclipses
+- hay una torre rodeada de un muro de piedra sin entrada aparente
 
 ## Temas
 - (temas principales de la historia)

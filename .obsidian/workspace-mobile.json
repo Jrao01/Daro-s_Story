@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15b1128c991ee749",
+        "id": "b384ce2a83fa400a",
         "type": "tabs",
         "children": [
           {
-            "id": "4e44b769e0a77a49",
+            "id": "3eacb13676f02777",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Orígenes y explicaciones"
             }
           }
         ]
@@ -165,12 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e44b769e0a77a49",
+  "active": "3eacb13676f02777",
   "lastOpenFiles": [
+    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
+    "EL CUENTO/04 IDEAS/Luna.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
+    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
+    "Untitled.md",
     "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
     "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
-    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
     "EL CUENTO/03 MUNDO/Geografía/Cuidad muralla.md",
     "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
@@ -182,7 +189,6 @@
     "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
     "EL CUENTO/01 MANUSCRITO/Borrador.md",
     "EL CUENTO/02 TRAMA/Subtramas.md",
-    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
     "EL CUENTO/03 MUNDO/Magia/00 MDC magia.md",
     "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
     "EL CUENTO/03 MUNDO/Personajes/Siegfried Gorem.md",
@@ -191,8 +197,6 @@
     "EL CUENTO/03 MUNDO/Personajes/Plantas-Qin.md",
     "EL CUENTO/06 REFERENCIAS/Historia y geografía.md",
     "EL CUENTO/03 MUNDO/Geografía/Reinos.md",
-    "Z/05 REFERENCIAS/Historia y geografía/Tecnología en 1500.md",
-    "Andy heterosexual.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",
