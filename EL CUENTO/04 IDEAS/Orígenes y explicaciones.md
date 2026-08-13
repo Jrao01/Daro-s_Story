@@ -48,6 +48,7 @@ Los magos de animales también aprenden a imitar habilidades de sus animales sin
 
 ## Para países
 - la moneda del reino del sol es de aluminio 
+- un continente que esté separado en tres niveles, cada nivel con peligros más grandes que el anterior, hay monos voladores, insectos gigantes que son huecos por dentro
 
 ## Para objetos
 - (ideas)
