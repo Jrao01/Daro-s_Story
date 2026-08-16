@@ -1,6 +1,7 @@
 ## principio
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
-
+___
+La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares 
 
 ## Para la magia
 
