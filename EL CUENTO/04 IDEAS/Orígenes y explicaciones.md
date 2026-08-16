@@ -1,6 +1,7 @@
 ## principio
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 
+
 ## Para la magia
 
 Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
