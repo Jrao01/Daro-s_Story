@@ -1,7 +1,7 @@
 ## principio
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 ___
-La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares 
+La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida
 
 ## Para la magia
 
@@ -79,6 +79,7 @@ Usar magia de luna hace que tengas el riesgo de desarrollar múltiples personali
 ## Para personajes
 - las 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
 - nomis es el principal proveedor de armas de _la pandilla_ es un inventor que se la pasa creando nuevas formas de usar su magia se electricidad 
+- hay que justificar por qué amigo se hace Sanguijuelas, puede ser porque le teme a la muerte y si desarrollo es que arriesga su vida en algún momento 
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
