@@ -27,33 +27,10 @@ Durante el viaje ella le va enseñando sobre la vida de ladrón y como robar sin
 
 PRIMER PUNTO DE PRESIÓN 
 
-Al llegar al país de los magos protagonista kun y su amiga esperan a que llegue el día de reunión y logra infiltrarse durante la noche en el consejo de magos
-
-Ocurre la reunión y el protagonista intenta observarlos, pero es descubierto por el mago de luna, no le creen que sea un mago de oscuridad hasta que lo demuestra
-
-Al hacerlo hay reacciones divididas, hay quienes quieren darle una oportunidad, los que creen que pueden guiarlo para asegurarse de que no sea como los anteriores y los que están seguros de que la única respuesta es eliminarlos de una vez antes que se vuelva un problema mayor, en medio de la discusión 🫯 algunos de los magos intentan atacarlo y tiene que escapar 
-
-Apenas logra escapar vivo del lugar y ahora sabe que los de su tipo son odiados porque hace mucho tiempo hubo una guerra en la que intentaron acabar con todos los demás magos, y que debe moverse ahora con cuidado de no ser descubierto 
-
-A raíz de lo ocurrido en el consejo en el reino sol se discute sobre lo ocurrido y se revela que la extinción de los magos de oscuridad oscuridad fue planeada por el reino sol, estos eran el único objetivo de los magos de oscuridad y como no podían vencerlos convencieron a todos los demás magos de wue también irían por ellos, espias del gremio animal escuchan esto, gremio animal se vuelve primer aliado de protagonista kun
-
-En su camino escapando se encuentra con el monasterio de sanguijuelas, un lugar donde las sanguijuelas se dedican a refinar todas las habilidades posibles aprovechando su larga vida 
-
-Ahí espera encontrar quien lo ayude a leer su libro, no lo consigue y uno de los magos de tierra que vió a amiga fuera del país de los magos la vuelve a ver ahora, no puede ser tanta coincidencia, los ataca y termina lastimando gravemente a amiga 
-
-En un momento de desesperación por salvar a amiga recurren al gremio planta, con quiénes terminan haciendo una alianza y descubriemdo que existe un claustro de los magos de estrellas donde está el guardian de los archivos,el encargado de organizar todo el conocimiento mágico 
-
+Al 
 
 PUNTO MEDIO
 
-Protagonista kun tiene su rutina de cada noche infiltrarse para seguir aprendiendo con el guardian, está seguro de poder terminar su aprendizaje 
-
-El guardian de los archivos le tiende una trampa para que en su salida se consiga con un mago de estrellas y deba matarlo para no que no de la alarma, pero más magos despiertan y debe huir del sitio
-
-Ahora se sabe que estuvo ahí, queman todos los archivos sobre magia de oscuridad y empiezan una cacería aún mas intensa para encontrarlo 
-
-
-Protagonista kun entiende que no puede solo seguir escapando por siempre, piensa en un plan para 
 **SEGUNDO PUNTO DE PRESIÓN** 
 
  Aún sin escribir 
