@@ -80,6 +80,7 @@ Usar magia de luna hace que tengas el riesgo de desarrollar múltiples personali
 - las 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
 - nomis es el principal proveedor de armas de _la pandilla_ es un inventor que se la pasa creando nuevas formas de usar su magia se electricidad 
 - hay que justificar por qué amigo se hace Sanguijuelas, puede ser porque le teme a la muerte y si desarrollo es que arriesga su vida en algún momento 
+- el prota se hace furro y su pareja termina siendo una maga animal?...sehh
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
