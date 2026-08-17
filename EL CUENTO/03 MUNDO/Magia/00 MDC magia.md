@@ -1,7 +1,7 @@
 # Mapa de Contenido - Magia
 
 ## Fuentes
-- [[Fuentes de la magia]]
+- [[EL CUENTO/03 MUNDO/Magia/Fuentes de la magia]]
 
 ## Habilidades
 - [[Habilidades mágicas]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/02 TRAMA/Arcos.md",
+                "file": "EL CUENTO/04 IDEAS/Luna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcos"
+              "title": "Luna"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EL CUENTO/02 TRAMA/Arcos.md",
+            "file": "EL CUENTO/04 IDEAS/Luna.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,15 +171,18 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
-    "EL CUENTO/02 TRAMA/Linea temporal.md",
-    "EL CUENTO/06 REFERENCIAS/De escritura.md",
-    "EL CUENTO/06 REFERENCIAS/Worldbuilding.md",
-    "EL CUENTO/03 MUNDO/Criaturas Mágicas.md",
+    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
+    "EL CUENTO/04 IDEAS/Luna.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
     "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
+    "EL CUENTO/03 MUNDO/Geografía/Cuidad muralla.md",
+    "EL CUENTO/03 MUNDO/Criaturas Mágicas.md",
+    "Fuentes de la magia.md",
+    "EL CUENTO/06 REFERENCIAS/Worldbuilding.md",
+    "EL CUENTO/06 REFERENCIAS/De escritura.md",
+    "EL CUENTO/03 MUNDO/Magia/00 MDC magia.md",
+    "EL CUENTO/02 TRAMA/Linea temporal.md",
     "EL CUENTO/02 TRAMA/Arcos.md",
-    "EL CUENTO/04 IDEAS/Luna.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
     "EL CUENTO/00 INICIO/Inicio.md",
     "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
     "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
@@ -188,15 +191,11 @@
     "Untitled.md",
     "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
     "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
-    "EL CUENTO/03 MUNDO/Geografía/Cuidad muralla.md",
     "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
     "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
     "EL CUENTO/06 REFERENCIAS/Diccionario pretencioso.md",
     "EL CUENTO/01 MANUSCRITO/Borrador.md",
     "EL CUENTO/02 TRAMA/Subtramas.md",
-    "EL CUENTO/03 MUNDO/Magia/00 MDC magia.md",
-    "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
-    "EL CUENTO/03 MUNDO/Personajes/Siegfried Gorem.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",

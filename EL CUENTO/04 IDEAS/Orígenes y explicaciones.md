@@ -10,13 +10,7 @@ Los magos del magnetismo pueden encontrar metales, como afecta esto a la econom�
 
 En la dimensión de oscuridad no existe el sonido.
 
-Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los árboles 
-
-La verdadera fuente de poder de la magia de oscuridad es un agujero negro
-
-En algún momento existirán los magos nucleares 
-
-Tengo que inventar un método para cambiar la naturaleza de tu magia, pa poder decir que el viejo se cambió de bando(ayy vale)
+Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los árboles  
 
 Para activar los artefactos mágicos deben clavarse en tu piel para estar conectados a tu flujo de energía 
 
@@ -57,23 +51,7 @@ Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de
 ___
 Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
 ___
-El poder de los magos de luna se divide en dos partes, que a si vez se dividen en dos cada una
-                 /Sentimientos 
-         /Corazón 
-Personas.                  \magia
-                /Intención 
-         \mente  
-                 \salud
-
-                    / Temperatura 
-         /Material 
-Espacio.                            \huellas
-                   /Mundo de luz 
-         \intangible
-                  \mundo de oscuridad 
-Los estudiantes de esta magia se dedican casi enteramente al estudio del espacio (menguante ) ya que se considera que el estudio de las personas puede ser usado con fines malvados y va en contra de la ideología pacifista de los magos de luna
-
-Usar magia de luna hace que tengas el riesgo de desarrollar múltiples personalidades 
+El
 ## Para países
 - la moneda del reino del sol es de aluminio 
 - un continente que esté separado en tres niveles, cada nivel con peligros más grandes que el anterior, hay monos voladores, insectos gigantes que son huecos por dentro
