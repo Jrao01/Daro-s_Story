@@ -2,7 +2,8 @@
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 ___
 La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida
-
+___
+No hay mago, Siegfried llega a la cabaña y no consigue un mago
 ## Para la magia
 
 Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
@@ -18,6 +19,8 @@ En algún momento existirán los magos nucleares
 Tengo que inventar un método para cambiar la naturaleza de tu magia, pa poder decir que el viejo se cambió de bando(ayy vale)
 
 Para activar los artefactos mágicos deben clavarse en tu piel para estar conectados a tu flujo de energía 
+
+Para viajar al pasado y convertirse en animales se necesita una parte de ese animal
 ## Para la trama
 
 Al empezar hay una enfermedad que nadie puede curar y genera miedo, más tarde descubrimos que eran los magos nucleares 
@@ -36,6 +39,8 @@ ___
 La magia de oscuridad terminará siendo magia de absorsion? Y por eso fue que los eliminaron, se habrían vuelto demasiado peligros
 ___
 Amiga termina convirtiéndose en la aprendiz de nomis como maga de electricidad 
+___
+Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
 
 ## Para los magos
 los magos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
@@ -81,6 +86,8 @@ Usar magia de luna hace que tengas el riesgo de desarrollar múltiples personali
 - nomis es el principal proveedor de armas de _la pandilla_ es un inventor que se la pasa creando nuevas formas de usar su magia se electricidad 
 - hay que justificar por qué amigo se hace Sanguijuelas, puede ser porque le teme a la muerte y si desarrollo es que arriesga su vida en algún momento 
 - el prota se hace furro y su pareja termina siendo una maga animal?...sehh
+- elka también regresa en el tiempo y se transforma en dientes de sable
+-
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
