@@ -1121,3 +1121,16 @@ Existen clanes exiliados o que no participan en esta jerarquía y que por lo tan
 
 #### Notas de desarrollo
 - (cosas aún por decidir sobre este gremio)
+
+## Daga negra 2.0
+Organizacion creada para reemplazar a los magos de oscuridad como asesinos personales de los tres poderes 
+
+Está conformada por prisioneros condenados a muerte en los que se descubrió afinidad mágica y se les dió la oportunidad de unirse o morir
+
+Se especializan en desarrollar habilidades para el combate poco comunes a cada fuente de magia para hacer difícil rastrear o identificar quien ha Sido el asesino.
+
+Sus miembros de magia lunar aprenden la rama prohibida de visualización de intenciones, que les permite ver que ataque piensa usar su oponente durante el combate. También hay magos de luna no dedicados al combate sino a la identificación de personas aptas para la magia 
+
+Los magos de viento utilizan herramientas mágicas como dagas y espadas que les permiten canalizar viento dentro de su oponente para hacerlo explotar, al pelear desarmados aprenden también a dirigir grandes ráfagas de viento a través de los pulmones de su oponente hasta reventarlos
+
+Los magos de animales sirven como espías, transformándose en insectos o pequeños roedores para infiltrarse sin ser detectados

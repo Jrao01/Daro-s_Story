@@ -25,7 +25,7 @@ Expertos artistas marciales, usan su magia para moldear su cuerpo y volverse lí
 
 Son los únicos magos que no usan la energía de su fuente, se especializan en la transformación de la energía propia, al estar en armonía con sus animales logran transformaciones parciales o completas dependiendo de con que animales se hayan conectado
 ## Electricidad
-Magia en etapa experimental, creada por su único usuario momia, habilidades propensas a fallar o lastimar al propio usuario
+Magia en etapa experimental, creada por su único usuario, habilidades propensas a fallar o lastimar al propio usuario
 ## Estrellas
 
 Son considerados los magos con menor cantidad de poder bruto, es la fuente de poder más distante y por lo tanto la que llega de forma más tenue a sus usuarios, si fuerte no está en el poder sino en habilidades, a través del conocimiento de las estrellas pueden ver el pasado, sucediendo a los que las estrellas han visto

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15b1128c991ee749",
+        "id": "b384ce2a83fa400a",
         "type": "tabs",
         "children": [
           {
-            "id": "4e44b769e0a77a49",
+            "id": "3eacb13676f02777",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/02 TRAMA/Linea temporal.md",
-                "mode": "preview",
+                "file": "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linea temporal"
+              "title": "Orígenes y explicaciones"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -167,34 +169,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8cd6205f2b14e4c",
+  "active": "3eacb13676f02777",
   "lastOpenFiles": [
+    "EL CUENTO/04 IDEAS/Luna.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
+    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
+    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
+    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
+    "Untitled.md",
+    "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
+    "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
+    "EL CUENTO/03 MUNDO/Geografía/Cuidad muralla.md",
+    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
+    "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
+    "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
+    "EL CUENTO/02 TRAMA/Linea temporal.md",
     "EL CUENTO/06 REFERENCIAS/Diccionario pretencioso.md",
     "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
-    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
     "EL CUENTO/01 MANUSCRITO/Borrador.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
     "EL CUENTO/02 TRAMA/Subtramas.md",
-    "EL CUENTO/02 TRAMA/Linea temporal.md",
-    "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
-    "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
-    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
-    "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
     "EL CUENTO/03 MUNDO/Magia/00 MDC magia.md",
-    "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
     "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
-    "EL CUENTO/03 MUNDO/Magia/Gremios y organizaciones.md",
     "EL CUENTO/03 MUNDO/Personajes/Siegfried Gorem.md",
     "EL CUENTO/06 REFERENCIAS/Nombres.md",
     "EL CUENTO/04 IDEAS/00 MDC ideas.md",
     "EL CUENTO/03 MUNDO/Personajes/Plantas-Qin.md",
     "EL CUENTO/06 REFERENCIAS/Historia y geografía.md",
     "EL CUENTO/03 MUNDO/Geografía/Reinos.md",
-    "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
-    "Z/05 REFERENCIAS/Historia y geografía/Tecnología en 1500.md",
-    "Andy heterosexual.md",
-    "EL CUENTO/06 REFERENCIAS/Worldbuilding.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",

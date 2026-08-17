@@ -1,0 +1,3 @@
+Es el lugar donde habían las sanguijuelas que viven una vida pacífica dedicada a la búsqueda de conocimiento 
+
+La estructura de la ciudad es bastante simple, tiene forma cuadrada, cuatro muros extensos sin mayor adorno, 6 metros de altura, los muros cumplen a la vez la función de muralla y vivienda, todas las viviendas, escuelas, almacenes y edificios en general son una sección de la muralla, y el terreno dentro de usa para la ganadería y el sustento en general de la comunidad 
