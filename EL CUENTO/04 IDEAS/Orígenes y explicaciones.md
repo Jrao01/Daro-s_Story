@@ -35,7 +35,8 @@ ___
 Amiga termina convirtiéndose en la aprendiz de nomis como maga de electricidad 
 ___
 Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
-
+___
+En el nuevo continente las poblaciones son enteramente de magos pues las condiciones son tan duras que los no magos no pueden vivir ahí 
 ## Para los magos
 los magos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
 
