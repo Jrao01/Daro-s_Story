@@ -65,6 +65,7 @@ El
 - hay que justificar por qué amigo se hace Sanguijuelas, puede ser porque le teme a la muerte y si desarrollo es que arriesga su vida en algún momento 
 - el prota se hace furro y su pareja termina siendo una maga animal?...sehh
 - elka también regresa en el tiempo y se transforma en dientes de sable
+- poliamor?
 -
 ## Situaciones concretas
 - pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
