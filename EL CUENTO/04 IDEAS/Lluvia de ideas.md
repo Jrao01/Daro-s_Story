@@ -12,7 +12,8 @@ Mata por error a los magos de luna
 Más personas están en su contra ahora 
 Escapando llegan a conocer a nomis
 2
-Empieza a dominar más su magia
+Nueva reunión del consejo para hablar del tema 
+Se empiezan a formar los bandos que están a favor y en contra de prota 
 
 3
 Al enfrentarse a un mago atómico amigo muere para salvar a amiga

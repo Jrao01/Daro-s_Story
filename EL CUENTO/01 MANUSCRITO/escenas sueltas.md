@@ -46,3 +46,6 @@ Prota y amigo son atrapados por un grupo de asesinos peculiares, pelean fieramen
 Prota, congelado ante el horror de tener frente al charco sanguinolento de lo que alguna vez fue su amigo ,intenta gritar pero el sonido no sale de su boca, lágrimas caen por su mejilla, tiembla  hasta que finalmente es capaz de formular un pensamiento coherente: debe huir, de inmediato.
 
 Se ocultó en su sombra, activó su anillo y se fué pal coñoelamadre 
+
+___
+Elka se empeña en domar al animal mas arrecho del nuevo continente, la maga de gravitatoria la ayuda en esto encargándose de alejar al gatosaurio cuando la va a matar
