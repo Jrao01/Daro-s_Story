@@ -1,9 +1,9 @@
 ## principio
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 ___
-La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida
+La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida.
 ___
-No hay mago, Siegfried llega a la cabaña y no consigue un mago
+
 ## Para la magia
 
 Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
