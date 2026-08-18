@@ -1,3 +1,5 @@
+# Fuentes de la magia
+
 ## Lista de fuentes
 1. Agua
 2. Animales
@@ -31,25 +33,7 @@ Son considerados los magos con menor cantidad de poder bruto, es la fuente de po
 Magia con alto poder destructivos, pero con poco control, estos magos además de la magia se han vuelto expertos en dominar la herrería, pues solo mediante artefactos mágicos pueden controlar su poder
 ## Luna
 
-Se especializan en magia de tipo sensorial, las diferentes etapas de la luna les permiten ver diferentes planos de la existencia y aspectos de los seres vivos
-
-El  poder de los magos de luna se divide en dos partes, que a su vez se dividen en dos cada una
-                 /Sentimientos 
-         /Corazón 
-Personas.                  \magia
-                /Intención 
-         \mente  
-                 \salud
-
-                    / Temperatura 
-         /Material 
-Espacio.                            \huellas
-                   /Mundo de luz 
-         \intangible
-                  \mundo de oscuridad 
-Los estudiantes de esta magia se dedican casi enteramente al estudio del espacio (menguante ) ya que se considera que el estudio de las personas puede ser usado con fines malvados y va en contra de la ideología pacifista de los magos de luna
-
-Usar magia de luna hace que tengas el riesgo de desarrollar múltiples personalidades 
+Se especializan en magia de tipo sensorial, las diferentes etapas de la luna les permiten ver diferentes planos de la existencia, especialmente útiles para detectar la presencia de otros magos así como rastros de magia en objetos, su magia no tiene ningúna capacidad ofensiva, su magia se emisión les permite crear ilusiones
 ## Oscuridad
 Magia que vincula al usuario con la naturaleza de las sombras y la oscuridad, dado que la oscuridad no es una propiedad física está magia no es capaz de crear objetos sólidos ni ataques de ningún tipo, y solo sirve para efectos de movimiento o camuflaje 
 
