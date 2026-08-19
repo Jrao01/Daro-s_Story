@@ -3,7 +3,11 @@ Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los
 ___
 La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida.
 ___
+El mago de oscuridad estaba en un estado de suspensión en el que entran los magos de oscuridad para sanar las heridas más graves, contando siempre con que sus compañeros los despierten, pasa que todos los magos de oscuridad están muertos ahora, entonces nadie pudo romper el hechizo y despertarlo, hasta que llega prota y lo ilumina interrumpiendo el proceso, despierta curado, pero ma viejo quel coño, chueco, así le da chance de enseñar pero solo un potitito y después morirse 
 
+No le cuenta sobre los magos de oscuridad son perseguidos porque ve que no aparecen en ningún libro de historia así que asume que nadie los recuerda 
+
+Al sentir que se va a morir pronto decide probar si el chamito tiene aptitudes para la magia, las tiene y logra enseñarle apenas lo básico 
 ## Para la magia
 
 Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
