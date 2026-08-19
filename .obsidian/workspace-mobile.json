@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+                "file": "EL CUENTO/04 IDEAS/Inicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orígenes y explicaciones"
+              "title": "Inicio"
             }
           }
         ]
@@ -171,18 +171,19 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
-    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
+    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
+    "EL CUENTO/04 IDEAS/Inicio.md",
+    "EL CUENTO/04 IDEAS/Luna.md",
+    "EL CUENTO/01 MANUSCRITO/Capitulo 1.md",
     "EL CUENTO/02 TRAMA/Arcos.md",
     "EL CUENTO/04 IDEAS/00 MDC ideas.md",
     "EL CUENTO/04 IDEAS/Lluvia de ideas.md",
     "EL CUENTO/01 MANUSCRITO/escenas sueltas.md",
     "EL CUENTO/02 TRAMA/Linea temporal.md",
     "EL CUENTO/02 TRAMA/Estructura de 7 puntos.md",
-    "EL CUENTO/04 IDEAS/Luna.md",
     "Untitled.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
-    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
     "EL CUENTO/03 MUNDO/Geografía/Cuidad muralla.md",
     "EL CUENTO/03 MUNDO/Criaturas Mágicas.md",
     "Fuentes de la magia.md",
@@ -196,7 +197,6 @@
     "EL CUENTO/03 MUNDO/Magia/Habilidades mágicas.md",
     "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
     "EL CUENTO/03 MUNDO/Personajes/Mago de oscuridad.md",
-    "EL CUENTO/06 REFERENCIAS/Diccionario pretencioso.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",
