@@ -40,3 +40,12 @@ Dos magos de animales convertidos en moscas espían en el palacio del sol, ahí 
 
 ___
 Un grupo de los magos entrenados en secreto por la sanguijuela van a reclutar a nomis para unirse a su grupo, como éste los rechaza deciden atacarlo, dos de los magos del equipo son magos de luna que pueden ver las intenciones de su atacante, se paran unos segundos frente a él, se miran entre ellos y luego se retiran habiendo visto que no pueden ganarle, los otros magos del equipo quedan aterrorizados pues nunca habían visto a sus compañeros rechazar una batalla
+___
+Prota y amigo son atrapados por un grupo de asesinos peculiares, pelean fieramente a pesar de estar superados en números, de pronto a mitad de la pelea escuchan un fuerte silbido, los enemigos por alguna razón se retiran, empiezan a retroceder, una figura empieza a caminar hacia ellos, su cara y parte de su brazo están llenos de ronchas, se ponen en guardia pero la figura solo se para frente a ellos, con un leve movimiento levanta la mano y apunta hacia amigo, éste no entiende que pasa, pero empieza a sentirse somnoliento, cansado, débil, intenta dar un paso atrás pero sus pies no responden, empieza a temblar, su mente funciona lenta, como atontada, voltea con lentitud sus ojos hacia su brazo solo para ver cómo se desprende desde su codo, voltea a ver a prota, sus ojos solo reflejan desesperación, intenta articular una palabra, decirle a prota que corra, pero al abrir la boca su mandíbula cae al suelo, si piel empieza a burbujear como el agua hirviendo, con cada burbuja esparciendo sangre al reventar, si cara ya no es mas que músculo expuesto, al fin logró dar un paso, solo para caer al suelo al ceder sus rodillas ante el peso de cuerpo, desprendiéndose por completo la articulación. 
+
+Prota, congelado ante el horror de tener frente al charco sanguinolento de lo que alguna vez fue su amigo ,intenta gritar pero el sonido no sale de su boca, lágrimas caen por su mejilla, tiembla  hasta que finalmente es capaz de formular un pensamiento coherente: debe huir, de inmediato.
+
+Se ocultó en su sombra, activó su anillo y se fué pal coñoelamadre 
+
+___
+Elka se empeña en domar al animal mas arrecho del nuevo continente, la maga de gravitatoria la ayuda en esto encargándose de alejar al gatosaurio cuando la va a matar

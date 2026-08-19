@@ -1,9 +1,9 @@
 ## principio
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 ___
-La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida
+La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida.
 ___
-No hay mago, Siegfried llega a la cabaña y no consigue un mago
+
 ## Para la magia
 
 Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
@@ -35,7 +35,8 @@ ___
 Amiga termina convirtiéndose en la aprendiz de nomis como maga de electricidad 
 ___
 Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
-
+___
+En el nuevo continente las poblaciones son enteramente de magos pues las condiciones son tan duras que los no magos no pueden vivir ahí 
 ## Para los magos
 los magos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
 
