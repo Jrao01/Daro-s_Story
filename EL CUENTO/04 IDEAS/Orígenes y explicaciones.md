@@ -1,16 +1,7 @@
 ## principio
-Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
-___
-La familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado satisfecho con su vida.
-___
-El mago de oscuridad estaba en un estado de suspensión en el que entran los magos de oscuridad para sanar las heridas más graves, contando siempre con que sus compañeros los despierten, pasa que todos los magos de oscuridad están muertos ahora, entonces nadie pudo romper el hechizo y despertarlo, hasta que llega prota y lo ilumina interrumpiendo el proceso, despierta curado, pero ma viejo quel coño, chueco, así le da chance de enseñar pero solo un potitito y después morirse 
-
-No le cuenta sobre los magos de oscuridad son perseguidos porque ve que no aparecen en ningún libro de historia así que asume que nadie los recuerda 
-
-Al sentir que se va a morir pronto decide probar si el chamito tiene aptitudes para la magia, las tiene y logra enseñarle apenas lo básico 
-## Para la magia
-
-Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
+Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron.____amilia familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado .ovidfel.esann su vida.d os El mago de oscuridad estaba en un estado de suspensión en el que entran los magos de oscuridad para sanar las heridas más graves, contando siempre con que sus compañeros los despierten, pasa que todos los magos de oscuridad están muertos ahora, entonces nadie pudo romper el hechizo y despertarlo, hasta que llega prota y lo ilumina interrumpiendo el proceso, despierta curado, pero ma viejo quel coño, chueco, así le da chance de enseñar pero solo un potitito y después morirse se  le cuenta sobre los magos de oscuridad son perseguidos porque ve que no aparecen en ningún libro de hi 
+co 
+a la magiaiaagiamagos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
 
 En la dimensión de oscuridad no existe el sonido.
 
@@ -19,9 +10,8 @@ Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los �
 Para activar los artefactos mágicos deben clavarse en tu piel para estar conectados a tu flujo de energía 
 
 Para viajar al pasado y convertirse en animales se necesita una parte de ese animal
-## Para la trama
-
-Al empezar hay una enfermedad que nadie puede curar y genera miedo, más tarde descubrimos que eran los magos nucleares 
+## Pa
+a la tramamaramampezar hay una enfermedad que nadie puede curar y genera miedo, más tarde descubrimos que eran los magos nucleares 
 
 No darle al protagonista lo que quiere sino lo que necesita
 
@@ -41,8 +31,8 @@ ___
 Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
 ___
 En el nuevo continente las poblaciones son enteramente de magos pues las condiciones son tan duras que los no magos no pueden vivir ahí 
-## Para los magos
-los magos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
+## Pa
+a los magososagosagos de viento no usan mas ropa que un vestido completamente transparente y delgado, dicen que es para sentir el aire en todo momento aunque probablemente sea mas que nada una cosa cultural o religiosa
 
 Inventan naves voladoras o globos para cargar cosas pues cuando vuelan transformados en viento no pueden cargar nada 
 ___
@@ -57,31 +47,25 @@ ___
 Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
 ___
 El
-## Para países
-- la moneda del reino del sol es de aluminio 
+## Pa
+a paísesesísesmoneda del reino del sol es de aluminio 
 - un continente que esté separado en tres niveles, cada nivel con peligros más grandes que el anterior, hay monos voladores, insectos gigantes que son huecos por dentro
 
-## Para objetos
-- hay que pensar en una forma de que los objetos mágicos deben ser objetos mágicos y no solo objetos normales en los que lanzas magia 
+## Pa
+a objetososetos que pensar en una forma de que los objetos mágicos deben ser objetos mágicos y no solo objetos normales en los que lanzas magia 
 
-## Para personajes
-- las 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
+## Pa
+a personajesesajes 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
 - nomis es el principal proveedor de armas de _la pandilla_ es un inventor que se la pasa creando nuevas formas de usar su magia se electricidad 
 - hay que justificar por qué amigo se hace Sanguijuelas, puede ser porque le teme a la muerte y si desarrollo es que arriesga su vida en algún momento 
 - el prota se hace furro y su pareja termina siendo una maga animal?...sehh
 - elka también regresa en el tiempo y se transforma en dientes de sable
 - poliamor?
 -
-## Situaciones concretas
-- pasan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
+## Si
+uaciones concretasasetsan por un bosque con luciérnagas en los árboles, el dosel parece una bóveda celeste 
 - el mago de oscuridad no debería tener velas en su casa, Siegfried debe usar una antorcha
 - los magos de estrellas inventaron el calendario cuyo uso se extendió por todo el mundo, dividen el año en 13 meses y las eras en ciclos de 300 años llamados era del norte y era del sur según que estrella brilla más en el cielo 
 - la orden de asesinos de los magos de oscuridad fue creada en un principio por las sanguijuelas para ser sus asesinos personales, decidieron acabar con ellos cuando descubrieron que su poder podía salirse de control durante los eclipses
-- hay una torre rodeada de un muro de piedra sin entrada aparente(...pq?)
-
-## Temas
-- (temas principales de la historia)
-## Por si hay segundo libro
-Enemigo del primer libro: el reino del sol
-Enemigo del segundo libro: las 5 sanguijuelas 
-Enemigo del tercer libro: los magos científicos y sus nuevas magias peligrosas
+- hay una torre rodeada de un muro de piedra sin entrada aparente(...pTemas## Temas
+- Por si hay segundo libro…us nuevas magias peligrosas
