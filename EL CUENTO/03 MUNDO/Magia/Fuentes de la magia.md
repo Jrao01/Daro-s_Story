@@ -79,4 +79,5 @@ Tienen una rivalidad constante con los magos de fuego,por considerarse los usuar
 ## Tierra
 Su poder proviene de los movimientos tectónicos de la corteza terrestre, sus ataques son continentes y poderosos y pueden imitar eventos sísmicos a escala reducida
 ## Viento
+Los magos de viento se enfocan en la meditación para liberarse de las ataduras terrenales, son capaces de transformar su cuerpo en viento y viajar por el mundo, razón por la cual no acostumbran tener muchas pertenencias, pueden controlar corrientes de aire y guiarlas a dónde les plazca 
 

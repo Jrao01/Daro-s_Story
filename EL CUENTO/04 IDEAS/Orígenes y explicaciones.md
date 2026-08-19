@@ -1,11 +1,4 @@
-## principio
-Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron.__
-
-amilia familia de Siegfried muere por una enfermedad misteriosa que se ha esparcido por su país. Más tarde descubrimos que era obra de las sanguijuelas y los magos nucleares. Esa es la razón por la que buscó trabajo pero desde que murió su familia no ha estado .ovidfel.esann su vida.d os 
-
-El mago de oscuridad estaba en un estado de suspensión en el que entran los magos de oscuridad para sanar las heridas más graves, contando siempre con que sus compañeros los despierten, pasa que todos los magos de oscuridad están muertos ahora, entonces nadie pudo romper el hechizo y despertarlo, hasta que llega prota y lo ilumina interrumpiendo el proceso, despierta curado, pero ma viejo quel coño, chueco, así le da chance de enseñar pero solo un potitito y después morirse se  le cuenta sobre los magos de oscuridad son perseguidos porque ve que no aparecen en ningún libro de hi 
-co 
-a la magiaiaagiamagos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
+e oscuridad para sanar las heridas más graves,agiaiaagiamagos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
 
 En la dimensión de oscuridad no existe el sonido.
 
