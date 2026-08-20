@@ -17,3 +17,9 @@ ___
 Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
 ___
 En el nuevo continente las poblaciones son enteramente de magos pues las condiciones son tan duras que los no magos no pueden vivir ahí 
+___
+O al final de la vaina Siegfried ya tiene que si no sé, 40 años 
+___
+Los magos de viento tienen un campamento en el nuevo continente, ellos son los que llevan a la pandilla exiliada en la máquina voladora 
+___
+En el nuevo mundo los magos no están separados por fuente, viven en comunidad 

@@ -49,3 +49,23 @@ Se ocultó en su sombra, activó su anillo y se fué pal coñoelamadre
 
 ___
 Elka se empeña en domar al animal mas arrecho del nuevo continente, la maga de gravitatoria la ayuda en esto encargándose de alejar al gatosaurio cuando la va a matar
+___
+Al regresar al campamento luego unos días en la aldea de los magos sin peso, elka se ha negó a hablar todo el camino, molesta por la cercanía que notó entre Feng Yu y Siegfried, se transformó en zarigueya y pasó todo el viaje en el hombro de Siegfried, en silencio.
+—en serio ve vas a molestar por eso?— preguntó Siegfried.
+—Qsss—gruñe ella
+—por favor, es necesario tanto drama?
+—Qsss —repite elka con más rabia.
+—ah entonces eso es to lo que vas a decir—dijo volteando los ojos.
+—Qsss 
+—¡Ya basta! —estalló Siegfried— ¿o a caso vas a decirme que a ti no te gustó?
+Elka abrió la boca para gruñir de nuevo pero se quedó muda ante la pregunta. Giró los ojos de lado a lado con nerviosismo.
+Siegfried la miró con sorpresa al tiempo que una pequeña sonrisa asomaba en sus labios—te gusta?
+Elka trepó a la espalda de Siegfried antes de convertirse de nuevo en humana, para seguir cargada, pues no estaba de humor para caminar, ni como zarigueya ni en ninguna otra forma
+—¿Y qué si me gusta?—admitió finalmente— es... linda, solo, no me gusta que te guste okey? Me hace sentir... no suficiente
+—Me gusta ella, pero no más que tú, y no voy a dejarte a ti por ella, tu eres mi vida
+—Y tu la mía—respondió Elka desanimada, con la cabeza apoyada en Siegfried y mirando a un lado del camino
+Solo estaba diciendo —continuó Siegfried— que podríamos "ampliar " nuestra vida, no crees? No haría daño intentar 
+Elka volteó rápidamente a ver a Siegfried con una expresión de curiosidad —tu crees que querría ser nuestra novia?
+—No lo sé —dijo Siegfried, satisfecho por al menos haber mejorado el humor de Elka— pero me da la impresión de que si, ¿o acaso no has notado como te mira?
+—Ay, ¿Ella?¿A mí?—ocultó su rostro en el cuello de Siegfried, tratando de ocultar una sonrisa de vergüenza 
+—No solo ella, pero tú nunca notas esas cosas. Yo lo noto porque soy igual de celoso que tu

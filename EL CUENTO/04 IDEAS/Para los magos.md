@@ -10,4 +10,4 @@ ___
 Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de fuego 
 
 ___
-Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
+Los magos de animales del nuevo continente también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
