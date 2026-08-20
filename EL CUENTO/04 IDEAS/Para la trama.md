@@ -1,0 +1,19 @@
+Al empezar hay una enfermedad que luego descubrimos que es causada por los magos radiactivos 
+___
+En algún momento tendrá que decidir entre probar que puede ser bueno, o seguir el mismo camino de sus predecesores
+___
+
+Los villanos reales son una organización de 5 sanguijuelas cada sino con más de 1000 años que moldean el mundo a su antojo con sus influencias, uno es el guardian de los archivos, otro el emperador del sol, que finje reencarnar pero realmente solo es la misma persona una y otra vez faltan tres.
+
+Ellos fueron los responsables de iniciar el conflicto con los magos de oscuridad, su magia les parecía un peligro demasiado grande 
+
+___
+Dos magos de animales convertidos en moscas descubren que los responsables del genocidio fueron realmente los magos del sol y se vuelven aliados del mago de oscuridad™ 🌑 
+___
+La magia de oscuridad terminará siendo magia de absorsion? Y por eso fue que los eliminaron, se habrían vuelto demasiado peligros
+___
+Amiga termina convirtiéndose en la aprendiz de nomis como maga de electricidad 
+___
+Siegfried se mete a robar archivos en el convento, la sanguijuela le tiende una trampa 🪤 para que asesine a magos de luna, culparlo de asesinato y robo y hacer que también los magos de luna estén contra él 
+___
+En el nuevo continente las poblaciones son enteramente de magos pues las condiciones son tan duras que los no magos no pueden vivir ahí 

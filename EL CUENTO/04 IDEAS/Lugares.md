@@ -1,0 +1,1 @@
+un continente que esté separado en tres niveles, cada nivel con peligros más grandes que el anterior, hay monos voladores, insectos gigantes que son huecos por dentro

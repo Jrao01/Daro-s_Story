@@ -24,6 +24,7 @@ Prota decide infiltrarse e investigar
 Descubre que "la enfermedad " eran pruebas realizadas durante el entrenamiento de esos magos 
 Da a conocer esta información en los gremios que lo aceptan
 Los que han perdido familia a causa de esto deciden unirse a su causa 
+Descubre el antigüo arsenal de los magos de oscuridad 
 Empiezan a ganar terreno
 Parece que pueden ganar 
 Pierden muchas personas, los gremios deciden expulsar a los que se hayan aliado con el prota para no verse envueltos con eso y salvarse 
