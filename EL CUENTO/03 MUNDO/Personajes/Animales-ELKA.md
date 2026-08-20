@@ -1,9 +1,9 @@
 ### ESENCIA Y ARCO
 
 · Concepto de una línea: hija y aprendiz del jefe del gremio animal
-· Rol en la historia:
+· Rol en la historia:compañera/interés romántico 
 · Mentira que cree:
-· Deseo (meta externa):
+· Deseo (meta externa):conseguir una meta por la que valga la pena luchar
 · Necesidad (lección interna):
 · Arco: Empieza siendo... → Termina siendo...
 
@@ -15,7 +15,7 @@
 
 ### CAPA EXTERNA (Descripción Física Detallada)
 
-· Biométricos: Edad, Género, Peso, Estatura, Complexión.
+· Biométricos:23 años, 1.78 de altura, delgada
 · Rasgos: Cabello, Ojos, Piel, Cicatrices/Marcas.
 · Presencia: Postura, Andar, Gestos, Voz.
 · Arreglo: Higiene, Indumentaria habitual.
