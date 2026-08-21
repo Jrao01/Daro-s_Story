@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/04 IDEAS/Misceláneos.md",
+                "file": "EL CUENTO/04 IDEAS/Animales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Misceláneos"
+              "title": "Animales"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EL CUENTO/04 IDEAS/Misceláneos.md",
+            "file": "EL CUENTO/04 IDEAS/Animales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,6 +171,8 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
+    "EL CUENTO/04 IDEAS/Misceláneos.md",
+    "EL CUENTO/04 IDEAS/Animales.md",
     "EL CUENTO/04 IDEAS/Lugares.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Plantas.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
@@ -196,8 +198,6 @@
     "EL CUENTO/01 MANUSCRITO/Borrador.md",
     "EL CUENTO/04 IDEAS/Lluvia de ideas.md",
     "EL CUENTO/02 TRAMA/Arcos.md",
-    "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
-    "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",
