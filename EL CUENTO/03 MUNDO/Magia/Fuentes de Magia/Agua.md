@@ -1,0 +1,2 @@
+# Agua
+Expertos artistas marciales, usan su magia para moldear su cuerpo y volverse líquidos donde reciben un golpe, poder de ataque de un ser humano, pero la mayor resistencia al daño de entre todos los magos, muy difíciles de matar o siquiera lastimar
