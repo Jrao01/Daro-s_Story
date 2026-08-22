@@ -25,3 +25,5 @@ ___
 En el nuevo mundo los magos no están separados por fuente, viven en comunidad 
 ___
 Siegfried no se retira de las dificultades porque anhela grandeza
+___
+Los magos de viento saben cosas, ellos saben que hay magos de oscuridad en la isla escalera, solo están en el consejo pq si, pero no son una organización con lider
