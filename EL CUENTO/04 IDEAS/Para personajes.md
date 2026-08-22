@@ -1,0 +1,1 @@
+Un personaje que esté arrecho, y su motivación sea que está muy arrecho para dejarse joder

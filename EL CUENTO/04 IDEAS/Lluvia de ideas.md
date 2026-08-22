@@ -7,7 +7,7 @@ Escapa
 Va a la ciudad muralla
 Conoce a amigo
 Encuentra como traducir su libro
-Mata por error a los magos de luna
+Mata por error a los magos de luna porque ellos pueden verlo, no puede ocultarse 
 Más personas están en su contra ahora 
 Escapando llegan a conocer a nomis
 2
@@ -35,3 +35,6 @@ En el nuevo continente descubren magos de gravedad, y otros tipos de magos
 Descubren que tienen rituales especiales que sirven para cambiar tu tipo de magia
 Los más novatos deciden someterse a este tratamiento 
 Ahora tienen nuevos tipos de magos en el equipo
+También hay magos de oscuridad pero viven en niveles más altos de la isla
+Ellos tienen ataques mágicos 
+Debe arriesgarse para llegar a ellos y llevarse a su novia y a la traductora 
