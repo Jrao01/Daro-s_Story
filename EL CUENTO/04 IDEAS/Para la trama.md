@@ -23,3 +23,5 @@ ___
 Los magos de viento tienen un campamento en el nuevo continente, ellos son los que llevan a la pandilla exiliada en la máquina voladora 
 ___
 En el nuevo mundo los magos no están separados por fuente, viven en comunidad 
+___
+Siegfried no se retira de las dificultades porque anhela grandeza
