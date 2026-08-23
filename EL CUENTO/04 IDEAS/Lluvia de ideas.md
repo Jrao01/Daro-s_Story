@@ -1,40 +1,30 @@
-Descubre el libro 
-Empieza su viaje 
-Conoce a amiga
-Va al país de los magos
-Descubre que lo odian 
-Escapa
-Va a la ciudad muralla
-Conoce a amigo
-Encuentra como traducir su libro
-Mata por error a los magos de luna porque ellos pueden verlo, no puede ocultarse 
-Más personas están en su contra ahora 
-Escapando llegan a conocer a nomis
-2
-Nueva reunión del consejo para hablar del tema 
-Se empiezan a formar los bandos que están a favor y en contra de prota 
-Prota empieza a dominar más sus habilidades 
-Se descubre la traición del sol
-Conoce a su novia la gata
+Los magos de oscuridad tienen que hacerse un hueco en la mano para conjurar la dimensión de oscuridad, ese es el precio entonces los del viejo continente no saben guardar cosas allá 
 
-3
-Al enfrentarse a un mago atómico amigo muere para salvar a amiga
-La forma en la que muere se parece mucho a la que murió la familia 
-Prota decide infiltrarse e investigar 
-Descubre que "la enfermedad " eran pruebas realizadas durante el entrenamiento de esos magos 
-Da a conocer esta información en los gremios que lo aceptan
-Los que han perdido familia a causa de esto deciden unirse a su causa 
-Descubre el antigüo arsenal de los magos de oscuridad 
-Empiezan a ganar terreno
-Parece que pueden ganar 
-Pierden muchas personas, los gremios deciden expulsar a los que se hayan aliado con el prota para no verse envueltos con eso y salvarse 
-Deciden exiliarse al nuevo continente 
+También deben quitarse los ojos??
 
-4
-En el nuevo continente descubren magos de gravedad, y otros tipos de magos
-Descubren que tienen rituales especiales que sirven para cambiar tu tipo de magia
-Los más novatos deciden someterse a este tratamiento 
-Ahora tienen nuevos tipos de magos en el equipo
-También hay magos de oscuridad pero viven en niveles más altos de la isla
-Ellos tienen ataques mágicos 
-Debe arriesgarse para llegar a ellos y llevarse a su novia y a la traductora 
+Viven en sus casas completamente dentro de la dimensión de oscuridad 
+
+Necesitan herramientas para abrir el portal
+
+Pueden crear un área a su alrededor de oscuridad pura 
+
+Si el puede entrar a la de oscuridad, los de sol pueden entrar a la de luz?
+
+Al mago atómico lo llevan con cadenas de 50 metros de largo
+
+Domestican murciélagos porque son el único animal que puede vivir con ellos en la oscuridad 
+
+Que se vaya la oscuridad a tu alrededor lo que significa es que el mago te está viendo
+Al igual que los murciélagos durante el día suelen estar ocultos, en la noche si poder se amplifica 
+
+Pueden ver en la oscuridad, no pueden ver en la luz
+
+Pueden apagar las fuentes de luz a su alrededor 
+
+Solo puede usar sus habilidades al máximo después de perder los ojos, eso lo limita, las Sanguijuelas descubrieron esto experimentando con un mago ciego 
+
+Pueden agrandar sombras 
+
+Hay animales aparte de los murciélagos que usan la ecolocacion 
+
+Lo que gana al quita
