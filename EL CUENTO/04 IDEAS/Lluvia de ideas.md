@@ -34,3 +34,15 @@ No pueden crear sombras pero pueden agrandar las existentes, por eso usan grande
 No tienen ningún ataque, no pelean con las criaturas tampoco, sobreviven porque son intocables 
 ___
 En el continente todos los magos usan herramientas mágicas, solo los del continente usan su magia sin ellas
+___
+Para solucionar el problema con la progresión de la magia, que haya una forma de activarla que tome tiempo y no sea instantáneo 
+___
+Si todos usan "herramientas" que no necesariamente hagan el trabajo, solo ayudan a canalizar la energía para sacarla del cuerpo, guantes, muñequeras, armas 
+___
+Los magos de gravedad son los que tienen los agujeros en las manos, aprenden a vivir de la telequinesis.
+
+La herramienta de los magos de oscuridad es un bastón con una piedra en la punta que canaliza la oscuridad 
+
+Los magos de oscuridad de la isla viven en un bosque subterráneo donde todas las criaturas usan ecolocacion 
+
+El proceso de cambiar la naturaleza de tu magia incluye gastar toda tu energía, física y mágica, desangrarte hasta el borde de la muerte y revivirte llenandote de la magia de tu nueva naturaleza 
