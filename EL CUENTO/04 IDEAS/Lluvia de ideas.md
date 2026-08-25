@@ -27,4 +27,8 @@ Pueden agrandar sombras
 
 Hay animales aparte de los murciélagos que usan la ecolocacion 
 
-Lo que gana al quita
+Lo que gana al quitarse los ojos es entrar y salir de la dimensión oscura, antes solo podía mandar objetos, la vista, la luz, es lo que lo ata a este mundo, después de eso es que puede usar su salto entre dimensiones y paja
+
+No pueden crear sombras pero pueden agrandar las existentes, por eso usan grandes sombreros para siempre estar bajo la sombra 
+
+No tienen ningún ataque, no pelean con las criaturas tampoco, sobreviven porque son intocables 
