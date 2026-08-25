@@ -46,3 +46,7 @@ La herramienta de los magos de oscuridad es un bastón con una piedra en la punt
 Los magos de oscuridad de la isla viven en un bosque subterráneo donde todas las criaturas usan ecolocacion 
 
 El proceso de cambiar la naturaleza de tu magia incluye gastar toda tu energía, física y mágica, desangrarte hasta el borde de la muerte y revivirte llenandote de la magia de tu nueva naturaleza 
+
+Las herramientas mágicas requieren de un cristal que resuene con el tipo específico de magia para poder canalizarla, eso se descubrió en el continente y por eso ahí los usan mientras que en la isla solo tienen magia interna 
+
+Los únicos que tienen cristales en el continente son los magos de oscuridad porque la cueva donde los consiguen es demasiado peligrosa, pero ellos pueden ir sigilosamente 
