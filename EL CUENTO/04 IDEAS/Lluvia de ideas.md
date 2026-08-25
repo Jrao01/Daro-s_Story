@@ -32,3 +32,5 @@ Lo que gana al quitarse los ojos es entrar y salir de la dimensión oscura, ante
 No pueden crear sombras pero pueden agrandar las existentes, por eso usan grandes sombreros para siempre estar bajo la sombra 
 
 No tienen ningún ataque, no pelean con las criaturas tampoco, sobreviven porque son intocables 
+___
+En el continente todos los magos usan herramientas mágicas, solo los del continente usan su magia sin ellas
