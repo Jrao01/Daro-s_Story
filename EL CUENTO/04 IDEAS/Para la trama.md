@@ -29,3 +29,5 @@ ___
 Los magos de viento saben cosas, ellos saben que hay magos de oscuridad en la isla escalera, solo están en el consejo pq si, pero no son una organización con lider
 ___
 La razón por la que la sanguijuela le enseña en un principio es para cebarlo y que agarre confianza antes de traicionarlo y quitarle el libro, eliminando así la amenaza de raíz 
+___
+Describir el idioma sin ponerlo realmente 
