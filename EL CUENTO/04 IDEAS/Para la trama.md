@@ -30,4 +30,6 @@ Los magos de viento saben cosas, ellos saben que hay magos de oscuridad en la is
 ___
 La razón por la que la sanguijuela le enseña en un principio es para cebarlo y que agarre confianza antes de traicionarlo y quitarle el libro, eliminando así la amenaza de raíz 
 ___
-Describir el idioma sin ponerlo realmente 
+Describir el idioma sin ponerlo realmente
+___
+La gente de la isla no quiere tener contacto con el otro mundo porque tienen una larga historia de guerras
