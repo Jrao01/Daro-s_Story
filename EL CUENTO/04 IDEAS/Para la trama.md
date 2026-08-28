@@ -33,3 +33,5 @@ ___
 Describir el idioma sin ponerlo realmente
 ___
 La gente de la isla no quiere tener contacto con el otro mundo porque tienen una larga historia de guerras
+___
+Cuando las Sanguijuelas descubren la nigromancia ahí si se vuelven un peligro arrecho 
