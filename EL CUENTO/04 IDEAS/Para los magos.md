@@ -11,3 +11,7 @@ Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de
 
 ___
 Los magos de animales del nuevo continente también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
+___
+Elka de convierte en la primera en convertirse en insecto, los insectos del continente son lo suficientemente inteligentes para vincularse. Lo descubre porque unos insectos le tienen una emboscada 
+___
+Los magos de gravedad deben perder los dedos y hacerse agujeros en las manos
