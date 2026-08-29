@@ -515,108 +515,6 @@ Notas sobre nombres mongoles:
 
 ---
 
-## Rusia
-
-Masculinos (comunes)
-
-1. Ivan (la forma rusa de Juan)
-2. Fedor (Teodoro)
-3. Vasilii (Basilio)
-4. Semen (Simeón)
-5. Andrei (Andrés)
-6. Dmitrii (Demetrio)
-7. Grigorii (Gregorio)
-8. Mikhail (Miguel)
-9. Daniil (Daniel)
-10. Nikita / Mikita
-11. Aleksandr (Alejandro)
-12. Boris
-13. Yuri
-14. Nikolai
-15. Sergei
-16. Pavel
-17. Roman
-18. Kirill
-19. Alexei
-20. Vladimir
-21. Maksim
-22. Yakov
-23. Anton
-24. Ignati
-25. Efim
-26. Emelian
-27. Efrem
-28. Davyd (David)
-29. Chebotai
-30. Aksen
-
-Femeninos (comunes)
-
-1. Anna
-2. Maria
-3. Elizaveta (Isabel)
-4. Katerina
-5. Natalia
-6. Olga
-7. Tatiana
-8. Vera
-9. Nadezhda
-10. Lyubov
-11. Sofia
-12. Anastasia
-13. Elena
-14. Irina
-15. Evdokia
-16. Praskovya
-17. Agafia
-18. Domna
-19. Solomoniya
-20. Akulina
-21. Matryona
-22. Fetinya
-23. Marfa
-24. Ulyana
-25. Vasilisa
-26. Fekla
-27. Avdotya
-28. Daria
-29. Arina
-30. Pelageya
-
-Masculinos (no tan comunes)
-
-1. Drozd
-2. Basalai
-3. Batman
-4. Chudin
-5. Arisik
-6. Barych
-7. Eska
-8. Ermolka
-9. Fediunia
-10. Andreika
-
-Femeninos (no tan comunes)
-
-1. Solomonida
-2. Agafia
-3. Domna
-4. Praskovya
-5. Fetinya
-6. Akulina
-7. Matryona
-8. Ulyana
-9. Fekla
-10. Pelageya
-
-Notas sobre nombres rusos:
-
-· Los nombres más comunes en el siglo XVI eran Ivan, Vasilii, Fedor, Semen y Andrei.
-· Los diminutivos eran extremadamente comunes, especialmente entre campesinos y no nobles, usando sufijos como -ka, -ko o -lo (ej. Ivan → Ivashko o Vania).
-· Los apellidos rusos típicos terminan en -ov, -ev o -in y originalmente indicaban "hijo de" (ej. Ivan Petrov = "Iván, hijo de Piotr").
-· La cristianización de la Rus de Kiev trajo nombres de santos bizantinos.
-
----
 
 ## Región Nórdica (Escandinavia)
 
@@ -721,111 +619,9 @@ Notas sobre nombres nórdicos:
 
 ---
 
-## Filipinas (siglo XVI)
-
-Masculinos (comunes)
-
-1. Juan
-2. Pedro
-3. Diego
-4. Francisco
-5. Antonio
-6. José
-7. Miguel
-8. Manuel
-9. Rodrigo
-10. Alonso
-11. Fernando
-12. Andrés
-13. Gabriel
-14. Rafael
-15. Martín
-16. Vicente
-17. Domingo
-18. Tomás
-19. Nicolás
-20. Mateo
-21. Simón
-22. Luis
-23. Carlos
-24. Felipe
-25. Esteban
-26. Cristóbal
-27. Sebastián
-28. Salvador
-29. Santiago
-30. Marcos
-
-Femeninos (comunes)
-
-1. María
-2. Juana
-3. Isabel
-4. Ana
-5. Catalina
-6. Teresa
-7. Clara
-8. Inés
-9. Leonor
-10. Beatriz
-11. Margarita
-12. Elena
-13. Francisca
-14. Antonia
-15. Josefa
-16. Luisa
-17. Marta
-18. Rosa
-19. Agustina
-20. Manuela
-21. Paula
-22. Vicenta
-23. Andrea
-24. Ramona
-25. Juliana
-26. Tomasa
-27. Eulalia
-28. Petrona
-29. Damiana
-30. Candida
-
-Masculinos (no tan comunes)
-
-1. Lapulapu
-2. Rajah Siaui
-3. Legazpi (Miguel López de Legazpi)
-4. Ruy (López de Villalobos)
-5. Salcedo
-6. Tello (Francisco Tello)
-7. Aetas (referencia a los nativos)
-8. Tagalo (referencia al grupo étnico)
-9. Bisaya (referencia al grupo étnico)
-10. Igorrote (referencia al grupo étnico)
-
-Femeninos (no tan comunes)
-
-1. Luz
-2. Filipina
-3. Felipina
-4. Candida
-5. Damiana
-6. Petrona
-7. Eulalia
-8. Tomasa
-9. Juliana
-10. Ramona
-
-Notas sobre nombres filipinos:
-
-· Tras la colonización española en 1565, los nombres españoles se generalizaron.
-· Las clases altas y los gobernantes locales conservaban nombres indígenas como Lapulapu.
-· Los nombres hispanos (María, Juan, Pedro) se convirtieron en los más comunes.
-· El uso del partícula "Si" era común antes de los nombres indígenas (ej. Si Lapulapu).
-· Filipinas fue nombrada en honor al rey Felipe II de España.
-
----
 
 ## Región Ibérica (España y Portugal, siglo XVI)
+
 
 Masculinos (comunes)
 
@@ -929,3 +725,93 @@ Notas sobre nombres ibéricos:
 
 ---
 
+# Rumania 
+
+Nombres Masculinos (alrededor de 150)
+
+· A: Adam, Adrian, Albu, Alexandru, Alexe, Andrei, Anghel, Antonie, Aron, Atanasie.
+· B: Badea, Balea, Balc, Banc, Barbu, Bărbat, Basarab, Bogdan, Bolea, Borcea, Bran, Bratul, Bucur, Budul.
+· C: Călin, Cârstea, Ciubar, Ciocâlteu, Coman, Constantin, Corbu, Costea, Crăciun.
+· D: Dadu, Dan, Danciu, David, Deleanu, Dimitrie, Dobre, Dobrul, Domnul, Dragomir, Dragoș, Dragu, Drăgan, Drăghici, Drăgușin, Duca, Dudu, Duma.
+· E: Emanoil, Ene.
+· F: Fătu, Fedor, Filoftei.
+· G: Gavril, Gheorghe, Gherasim, Giurca, Golescu, Gostoia, Grama, Grigore, Grozea.
+· H: Hranislav, Hreamătă.
+· I: Iancu, Iane, Ieremia, Ilarion, Ilie, Ioan, Ionașcu, Iordache, Isac, Iuga, Ivan, Ivănescu, Ivascu.
+· L: Lazăr, Leahu, Lefter, Lipan, Litovoi, Luca, Lupeș, Lupsa.
+· M: Man, Manaila, Manea, Mareș, Marin, Matei, Micul, Mihai, Mihnea, Milco, Mircea, Mișelav, Mogoș, Moise, Mondra, Muntean.
+· N: Nan, Nașcu, Neagoe, Neagu, Negrea, Negru, Negwe, Nicolae, Nicolaie.
+· O: Oprea, Ovidiu.
+· P: Pârvu, Pătrașcu, Petcu, Petrache, Petru, Pintilie, Pintea, Plăcintă, Popa, Preda, Prodan.
+· R: Radomir, Radoslav, Radu, Radul, Român.
+· S: Sava, Seneslau, Sima, Sofronie, Solomon, Stan, Stanislav, Stanizlao, Stănescu, Stănilă, Stanko, Ștefan, Stoia, Stoian, Strătulat.
+· T: Tănase, Tatomir, Teodor, Toader, Toma, Tomșa, Tudor, Tudoran.
+· U: Ursu.
+· V: Vasile, Vlad, Vladislav, Vintilă, Visarion, Vlăduț, Voicu, Vornic.
+
+Nombres Femeninos (alrededor de 50)
+
+· A: Adviga (Hedviga), Alba, Ana, Anca, Armeanca.
+· B: Buna, Bucura.
+· C: Călina, Calinica/Calinichia, Chiajna, Cireșica, Costea.
+· D: Despina, Doamna, Dobre, Dorina, Dorotee, Drusiana.
+· E: Elisabeta, Eufrosina.
+· F: Fevronia, Filofteia.
+· G: Galina, Gherghina, Ghiță.
+· I: Irina, Iustina.
+· K: Klara.
+· M: Mădălina, Mara, Margareta, Maria, Marina, Marusia.
+· N: Nastasia, Neaga.
+· P: Paraschiva, Paulina, Preda.
+· R: Rada, Radoslava, Rodica, Ruksana.
+· S: Safta, Sanda, Smaranda, Stana, Stanca.
+· T: Teodora, Theopahno, Tudosia.
+· V: Vasilica, Voichița.
+
+Apellidos y Nombres de Familia (Boyardos)
+
+· Brâncoveanu, Buzescu, Craiovești, Dănești, Drăculești, Drăgoiescu, Filișanu, Ghica, Golescu, Mărgineni, Mavrocordat, Movilă, Racoviță, Sahacescu, Sinka, Stănescu, Vlădescu.
+
+# eslavos 
+A: Aksen, Aleksandr, Andrei, Andreika (dim. de Andrei), Andreiko (dim. de Andrei), Arisik.
+· B: Barych, Basalai, Batman, Beket, Boris.
+· C: Chebotai, Chudin.
+· D: Daniil, Danilo (dim. de Daniil), Davyd, Davydko (dim. de Davyd), Dmitrii, Drozd.
+· E: Efim, Efrem, Efremko (dim. de Efrem), Emelian, Ermolka.
+· F: Fedor, Fedko (dim. de Fedor).
+· G: Grigorii, Gridia (dim. de Grigorii), Gridka (dim. de Grigorii).
+· I: Ignatko, Ivan, Ivashko (dim. de Ivan).
+· K: Kobach, Kobak, Kobanovets, Kobcha, Kobel/Kobel', Kobel'ka (dim.), Kobets, Kobiak, Kobiata, Kobilka, Kobokha, Kobrila.
+· M: Mikhail, Mitia (dim. de Dmitrii).
+· N: Nikita.
+· S: Semen, Senka (dim. de Semen), Sergei.
+· V: Vasilii, Vania (dim. de Ivan).
+
+Lista de nombres femeninos
+
+· Anastasia
+· Anna
+· Domna
+· Evdokia
+· Fevronia
+· Fekla
+· Fedosia
+· Goluba
+· Liubava
+· Liuba
+· Maremyana
+· Marfa
+· Maria
+· Nerada
+· Nezhda
+· Neliuba
+· Nemila
+· Smirena
+· Uliana
+
+Apellidos y nombres de familia (Boyardos)
+
+· Basilio III (príncipe)
+· Iván III el Grande (príncipe)
+· Dmitri Donskoi
+· Yuri Danílovichi

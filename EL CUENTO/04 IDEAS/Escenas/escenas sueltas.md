@@ -69,3 +69,5 @@ Elka volteó rápidamente a ver a Siegfried con una expresión de curiosidad —
 —No lo sé —dijo Siegfried, satisfecho por al menos haber mejorado el humor de Elka— pero me da la impresión de que si, ¿o acaso no has notado como te mira?
 —Ay, ¿Ella?¿A mí?—ocultó su rostro en el cuello de Siegfried, tratando de ocultar una sonrisa de vergüenza 
 —No solo ella, pero tú nunca notas esas cosas. Yo lo noto porque soy igual de celoso que tu
+___
+La scooby pandilla es capturada por los nigromantes, son recibidos por guardias montando esqueletos de criaturas como bisontes
