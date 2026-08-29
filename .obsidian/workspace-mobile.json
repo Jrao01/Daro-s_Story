@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/04 IDEAS/Para Animales.md",
+                "file": "EL CUENTO/06 REFERENCIAS/Nombres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Para Animales"
+              "title": "Nombres"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EL CUENTO/04 IDEAS/Para la trama.md",
+            "file": "EL CUENTO/04 IDEAS/Para Animales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,10 +171,13 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
+    "EL CUENTO/04 IDEAS/Para Animales.md",
+    "EL CUENTO/04 IDEAS/Inicio.md",
+    "EL CUENTO/04 IDEAS/Escenas/escenas sueltas.md",
+    "EL CUENTO/04 IDEAS/Escenas",
     "EL CUENTO/04 IDEAS/Para la trama.md",
     "EL CUENTO/04 IDEAS/Para la Magia.md",
     "EL CUENTO/04 IDEAS/Para los magos.md",
-    "EL CUENTO/04 IDEAS/Para Animales.md",
     "EL CUENTO/04 IDEAS/Untitled.md",
     "EL CUENTO/04 IDEAS/Misceláneos.md",
     "EL CUENTO/04 IDEAS/Lluvia de ideas.md",
@@ -196,8 +199,6 @@
     "EL CUENTO/03 MUNDO/Magia/Artefactos mágicos.md",
     "EL CUENTO/03 MUNDO/Personajes/Animales-ELKA.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia",
-    "Untitled.md",
-    "EL CUENTO/01 MANUSCRITO/Capitulo 1.1.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",
@@ -205,7 +206,6 @@
     "EL CUENTO/04 IDEAS",
     "EL CUENTO/07 PLANTILLAS",
     "EL CUENTO/06 REFERENCIAS",
-    "EL CUENTO/05 PREGUNTAS",
-    "EL CUENTO/03 MUNDO"
+    "EL CUENTO/05 PREGUNTAS"
   ]
 }
