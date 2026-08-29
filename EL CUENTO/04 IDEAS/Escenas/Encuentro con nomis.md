@@ -1,0 +1,3 @@
+La plantilla, huyendo de sus perseguidores pasa junto a un pantano, a lo lejos en medio del pantano se ve una casa construida sobre pilares de madera 
+"Deberíamos probar refugiarnos allá, pronto caerá la noche y se avecina una tormenta "
+"No creo que sea buena idea" dice una voz detrás de ellos. Voltean para encontrar que está nomis "si las anguilas no los matan en su camino, igual moririan pues podría matarlos a los tres antes de que logren poner un pie en mi casa, no son bienvenidos "

@@ -7,3 +7,5 @@ ___
 Un animal con un caparazón redondo con tentaculos que terminan en garras que usa para enterrarse y protejerse 
 ___
 Cómo un camello pero en lugar de jorobas los depósitos de grasa le cuelgan como bolsos
+___
+Alrededor del lago en la casa de nomis hay anguilas eléctricas 
