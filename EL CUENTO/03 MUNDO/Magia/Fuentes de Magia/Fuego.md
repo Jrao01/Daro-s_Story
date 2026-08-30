@@ -7,4 +7,4 @@ Guantes de forja: guantes de armadura que les permiten canalizar fuego a través
 
 Escupe fuego: arma con forma cilíndrica y alargada que permite canalizar el fuego con mayor alcance y precisión 
 
-Hojas de infierno: 
+Hojas de infierno: variedad de armas blancas (hachas, espadas, sables) cuyas hojas de calientan al rojo vivo 
