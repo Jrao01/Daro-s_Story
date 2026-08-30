@@ -815,3 +815,136 @@ Apellidos y nombres de familia (Boyardos)
 · Iván III el Grande (príncipe)
 · Dmitri Donskoi
 · Yuri Danílovichi
+# Hungary 
+A
+Ábel, Ádám, Adorján, Ágoston, Ajtony, Ákos, Aladár, Alajos, Albert, Alfréd, Álmos, Ambrus, Anasztáz, Andor, Andorjás, András, Antal, Apor, Árkos, Áron, Árpád, Artúr, Attila, Aurél.
+
+B
+Bacsó, Balassa, Balázs, Bálint, Bandi, Barna, Barnabás, Bartal, Béla, Bence, Bendegúz, Benett, Bertók, Boldizsár, Botond, Bulcsú.
+
+C
+Csaba, Csongor.
+
+D
+Dániel, Dávid, Dénes, Domonkos.
+
+E
+Egyed, Éliás, Emánuel, Endre.
+
+F
+Ferenc, Fodor.
+
+G
+Gábor, Gáspár, Gellén, Gergely, Géza, Gregorio, György, Gyula.
+
+I
+Ibrány, Imre, Ipoly, István.
+
+J
+Jákó, Jakab, János, Jenő, József.
+
+K
+Kálmán, Károly, Kázmér, Kelemen, Keled, Kende, Koppány, Kornél, Kristóf.
+
+L
+Lajos, László, Levente, Lóránt, Lőrinc, Lukács.
+
+M
+Márk, Márton, Máté, Mátyás, Menyhért, Mihály, Miklós, Miksa.
+
+N
+Németh, Nikodémusz.
+
+O
+Olivér, Orsolya.
+
+P
+Pál, Péter.
+
+R
+Rajmund, Rúben.
+
+S
+Sámuel, Sándor, Saul, Sebestyén, Selim, Simón, Szabolcs, Szilárd, Szűcs.
+
+T
+Tamás, Tibor, Timóteus, Titusz, Tivadar.
+
+V
+Vajk, Vince, Vilmos.
+
+Z
+Zalán, Zoltán, Zsolt.
+
+---
+
+Nombres femeninos (más de 50)
+
+A
+Aglent, Ametiszt, Anikó, Anna, Aranka.
+
+B
+Bíborka, Boglárka, Berta.
+
+C
+Carolina, Csenge, Csilla.
+
+D
+Debora, Diána, Dorina.
+
+E
+Emese, Emőke, Enéh, Eniko, Erzsébet, Eszter, Eufrozina, Éva, Evelin.
+
+F
+Fedosia, Fekla, Flóra, Fruzsina.
+
+G
+Gitta, Golda, Gratia, Gyöngyi.
+
+H
+Hajnalka.
+
+I
+Ibolya, Ildikó, Ilona, Irisko, Irma.
+
+J
+Jánka.
+
+K
+Karolina, Katalinka, Kincső, Klotild, Kornélia, Kriska, Krisztina.
+
+L
+Liliom.
+
+M
+Mara, Margit, Mária, Mariska, Márta, Mikolt.
+
+N
+Nefelejcs, Nóra.
+
+O
+Orsolya.
+
+P
+Piroska.
+
+R
+Ráhel, Rebeka, Réka, Rózsa.
+
+S
+Sára, Smaranda, Sarolta.
+
+T
+Tünde, Tímea.
+
+V
+Viola, Virág, Viktória, Vivien.
+
+Z
+Zita, Zsófia, Zsuzsanna.
+
+---
+
+Apellidos y nombres de familia (nobles y clanes)
+
+Andrássy, Árpád (dinastía), Báthory, Corvino (Hunyadi), Csák, Garai, Hunyadi, Kán, Lackfi, Rákóczi, Szapolyai, Zápolya.
