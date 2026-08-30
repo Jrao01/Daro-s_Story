@@ -1,3 +1,3 @@
-# Estrellas
+Son considerados los usuarios de la magia más débil, pues si fuente es la más tenue y lejana, usan su magia para obtener conocimiento del pasado a través de las estrellas, permitiéndole ver cualquier suceso que haya sido presenciado por ellas.
 
-Son considerados los magos con menor cantidad de poder bruto, es la fuente de poder más distante y por lo tanto la que llega de forma más tenue a sus usuarios, si fuerte no está en el poder sino en habilidades, a través del conocimiento de las estrellas pueden ver el pasado, sucediendo a los que las estrellas han visto
+Además de recibir información de las estrellas pueden hacer regresiones mentales 
