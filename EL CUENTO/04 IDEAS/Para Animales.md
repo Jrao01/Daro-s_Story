@@ -9,3 +9,5 @@ ___
 Cómo un camello pero en lugar de jorobas los depósitos de grasa le cuelgan como bolsos
 ___
 Alrededor del lago en la casa de nomis hay anguilas eléctricas 
+___
+Árboles gigantes(muy) que crecen con troncos gruesos y solo tres ramas
