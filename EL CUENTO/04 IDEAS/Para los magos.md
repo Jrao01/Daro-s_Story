@@ -14,4 +14,5 @@ Los magos de animales del nuevo continente también aprenden a imitar habilidade
 ___
 Elka de convierte en la primera en convertirse en insecto, los insectos del continente son lo suficientemente inteligentes para vincularse. Lo descubre porque unos insectos le tienen una emboscada 
 ___
-Los magos de gravedad deben perder los dedos y hacerse agujeros en las manos
+Los magos de gravedad deben perder los dedos y hacerse agujeros en las manos.
+Al regresar a Menorca y llevarse la chinita, allá empiezan una investigación sobre qué mineral le sirve para amplificar sus poderes 

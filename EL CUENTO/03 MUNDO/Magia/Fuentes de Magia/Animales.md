@@ -1,5 +1,8 @@
-# Animales
+A través de la domésticacion y vinculación con animales son capaces de imitar su energía y, con ayuda de sus herramientas mágicas, si forma
 
-Son los únicos magos que no usan la energía de su fuente, se especializan en la transformación de la energía propia, al estar en armonía con sus animales logran transformaciones parciales o completas dependiendo de con que animales se hayan conectado
+Los magos menos avanzados son capaces de transformar una extremidad a la vez en la de el animal con el que se hayan vinculado, los más avanzados logran transformar su cuerpo completo en el animal, los maestros son capaces de convertirse en más de un animal, el punto máximo que un mago de animales puede alcanzar es la quimera, transformase en una amalgama de varios animales a la vez 
 
-# variante de la isla escalera
+Catalizador: oro
+
+# Herramientas
+No fabrican herramientas pues no podrían usarlas mientras están en forma de animal, en su lugar usan perforaciones con su catalizador en las orejas o la nariz para poder llevarlo siempre 
