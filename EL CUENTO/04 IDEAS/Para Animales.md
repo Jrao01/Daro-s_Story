@@ -11,3 +11,5 @@ ___
 Alrededor del lago en la casa de nomis hay anguilas eléctricas 
 ___
 Árboles gigantes(muy) que crecen con troncos gruesos y solo tres ramas
+___
+Criaturas de las que solo se ve la silueta, altas como un árbol 
