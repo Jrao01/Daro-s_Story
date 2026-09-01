@@ -1,1 +1,1 @@
-Tesis: mantener neutrali
+Tesis: mantener neutralidad ante la injusticia ya es tomar partido 
