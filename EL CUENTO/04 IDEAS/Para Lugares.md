@@ -2,3 +2,4 @@ un continente que esté separado en tres niveles, cada nivel con peligros más g
 ___
 Un laberinto natural de de altas paredes de piedra donde viven los hurones gigantes 
 ___
+Laguna contenida por las raices de un árbol gigante
