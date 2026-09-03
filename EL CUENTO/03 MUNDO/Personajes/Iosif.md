@@ -36,4 +36,4 @@
 ### MAPA DE RELACIONES 
 
 [[Eva]] esposa
-[[Animales-ELKA]] hija
+[[Janka]] hija

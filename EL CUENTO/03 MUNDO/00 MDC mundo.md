@@ -6,3 +6,4 @@
 
 ## Personajes 
 [[00 MDC personajes]]
+⁴6
