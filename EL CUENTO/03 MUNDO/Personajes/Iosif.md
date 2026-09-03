@@ -35,5 +35,5 @@
 
 ### MAPA DE RELACIONES 
 
-[[Estrellas-EVA]] esposa
+[[Eva]] esposa
 [[Animales-ELKA]] hija

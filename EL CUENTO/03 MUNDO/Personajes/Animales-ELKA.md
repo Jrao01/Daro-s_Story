@@ -36,4 +36,4 @@
 ### MAPA DE RELACIONES 
 
 [[Animales-IOSIF ZDRAVKO LA QUIMERA]] padre 
- [[Estrellas-EVA]] madre
+ [[Eva]] madre
