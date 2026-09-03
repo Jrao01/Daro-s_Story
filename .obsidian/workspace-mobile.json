@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/03 MUNDO/Personajes/Hassan.md",
+                "file": "EL CUENTO/04 IDEAS/Misceláneos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hassan"
+              "title": "Misceláneos"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EL CUENTO/03 MUNDO/Personajes/Hassan.md",
+            "file": "EL CUENTO/04 IDEAS/Misceláneos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,6 +171,7 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
+    "EL CUENTO/03 MUNDO/Personajes/Hassan.md",
     "EL CUENTO/03 MUNDO/Personajes/Narsés.md",
     "EL CUENTO/07 PLANTILLAS/Plantilla de personajes.md",
     "EL CUENTO/06 REFERENCIAS/Nombres.md",
@@ -186,7 +187,6 @@
     "EL CUENTO/03 MUNDO/Personajes/Janka.md",
     "EL CUENTO/03 MUNDO/Personajes/Iosif.md",
     "EL CUENTO/03 MUNDO/Personajes/Ionascu.md",
-    "EL CUENTO/03 MUNDO/Personajes/Hassan.md",
     "EL CUENTO/03 MUNDO/Personajes/Gavril.md",
     "EL CUENTO/03 MUNDO/Personajes/Eva.md",
     "EL CUENTO/03 MUNDO/Personajes/Amadeus.md",
