@@ -7,3 +7,4 @@
 - otra droga que los haga vivir su muerte muchas veces 
 - En cuidades antiguas donde el conocimiento se ha perdido 
 - guían los murciélagos con látigos que chasquean
+- marioneta hecha solo de manos y brazos

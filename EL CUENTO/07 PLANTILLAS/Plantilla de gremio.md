@@ -1,6 +1,5 @@
 ### Datos básicos
 - **Nombre completo**:
-- **Nombre común**:
 - **Fuente mágica asociada**: (si aplica)
 - **Fundación**: (año o época)
 - **Sede central**:
