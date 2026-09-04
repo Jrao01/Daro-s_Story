@@ -1,16 +1,19 @@
 Descubre el libro 
+Descubre que puede aprender magia 
 Empieza su viaje 
-Conoce a amiga
+Conoce a nissa
 Va al país de los magos
 Descubre que lo odian 
 Escapa
 Va a la ciudad muralla
 Conoce a amigo
+Ahora sabe dónde puede ir a traducir su libro
 Encuentra como traducir su libro
 Mata por error a los magos de luna porque ellos pueden verlo, no puede ocultarse 
 Más personas están en su contra ahora 
 Escapando llegan a conocer a nomis
 2
+Escapando llegan a conocer a nomis
 Nueva reunión del consejo para hablar del tema 
 Se empiezan a formar los bandos que están a favor y en contra de prota 
 Prota empieza a dominar más sus habilidades 
@@ -38,3 +41,4 @@ Ahora tienen nuevos tipos de magos en el equipo
 También hay magos de oscuridad pero viven en niveles más altos de la isla
 Ellos tienen ataques mágicos 
 Debe arriesgarse para llegar a ellos y llevarse a su novia y a la traductora 
+
