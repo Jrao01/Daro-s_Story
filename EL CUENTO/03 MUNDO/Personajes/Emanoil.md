@@ -51,3 +51,5 @@
 
 ### IDEAS PARA EL PERSONAJE
 Sus marionetas son esqueletos humanos modificados
+
+Tiene la apariencia de alguien muy serio y venerable pero está medio loco y habla con sus marionetas
