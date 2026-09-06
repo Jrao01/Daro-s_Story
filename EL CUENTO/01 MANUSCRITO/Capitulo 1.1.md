@@ -23,11 +23,11 @@ Siegfried dudó, la figura ante él no le inspiraba ninguna confianza,pensó en 
 —¿Su casa, señor?—balbuceó— ehh... Disculpe, pensé que estaba abandonada, está tan destruída, necesitaba refugio de la tormenta y entré...
 —¿Destruida? —interrumpió el anciano, meditó un momento tratando de recordar, entendió entonces la pregunta que debía hacer, con miedo a la respuesta—¿Que año es,muchacho?
 —¿Año, señor? —dijo Siegfried con notable confusión— el año séptimo, del reinado de su majestad 
-—No te he preguntado quién es el tirano de turno, te pregunté que-año-es —Hizo una pausa entre cada palabra como dando tiempo de que se sintiera el peso de sus palabras
+—No te he preguntado quién es el tirano de turno, te pregunté que-año-es —Hizo una pausa entre cada palabra como dando tiempo de que se sintiera el peso de cada silaba
 —Es el año 327 de la era del norte señor.
 Los ojos del anciano se abrieron muy grandes ante estás palabras, que llegaron a sus oídos como una daga atravesando su piel, un torrente de recuerdos fluía por su mente. 560 años habían transcurrido. Lágrimas brotaron de sus ojos al tiempo que decía —Acercate muchacho, y ayúdame a levantarme, pero deja ahí esa antorcha,me lastima.
 Siegfried no leyó ningún rastro de malicia en la voz del anciano, solo dolor. Se acercó para levantarlo con cuidado, tomándolo por los hombros para ayudarlo a incorporarse, solo en ese momento, al terminar de caer el manto que los cubría, revelando la túnica que vestía, pudo ver las graves heridas que tenía en sus piernas; cortes tan profundos que dejaban ver el hueso, pero se alguna forma, sanados en su totalidad. Fue en ese momento que el hombre del camastro pido ver realmente lo que había a su alrededor: ruina.
-Tuvo también oportunidad de verse a si mismo, el tiempo había sido inclemente con él, su cuerpo era piel pegada a los huesos, seco como el pergamino,y débil como ese mismo pergamino. El peso de siglos de cabello le dificultaba sostener la cabeza erguida, sintió una necesidad imperiosa de cortarlo.
+Tuvo también oportunidad de verse a si mismo, el tiempo había sido inclemente con él, su cuerpo era piel pegada a los huesos, seco y debil como el pergamino. El peso de siglos de cabello le dificultaba sostener la cabeza erguida, sintió una necesidad imperiosa de cortarlo.
 —Pásame las tijeras de ese cofre, muchacho
 "Cuáles tijeras" el pensamiento se formuló pero Siegfried no alcanzó a pronunciarlo, fue ahogado por la sorpresa de ver el cofre surgir del suelo.
 —Qué esperas, búscalas —dijo el anciano con impaciencia

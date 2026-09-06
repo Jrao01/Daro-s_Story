@@ -8,3 +8,4 @@
 - En cuidades antiguas donde el conocimiento se ha perdido 
 - guían los murciélagos con látigos que chasquean
 - marioneta hecha solo de manos y brazos
+- alguien escapó de una mina donde consiguió algo muy valioso, se consigue con una doctora que tiene la meta de acabar con las guerras en el mundo 

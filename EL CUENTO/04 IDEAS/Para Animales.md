@@ -15,3 +15,5 @@ ___
 Criaturas de las que solo se ve la silueta, altas como un árbol 
 ___
 Criaturas eléctricas 
+___
+El jalapatras

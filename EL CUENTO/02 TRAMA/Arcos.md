@@ -6,7 +6,7 @@ Va al país de los magos
 Descubre que lo odian 
 Escapa
 Va a la ciudad muralla
-Conoce a amigo
+Conoce a gavril y decide ser su compañero en el viaje
 Ahora sabe dónde puede ir a traducir su libro
 Encuentra como traducir su libro
 Mata por error a los magos de luna porque ellos pueden verlo, no puede ocultarse 
