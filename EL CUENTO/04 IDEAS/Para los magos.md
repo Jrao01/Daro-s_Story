@@ -11,3 +11,5 @@ Elka de convierte en la primera en convertirse en insecto, los insectos del cont
 ___
 Los magos de gravedad deben perder los dedos y hacerse agujeros en las manos.
 Al regresar a Menorca y llevarse la chinita, allá empiezan una investigación sobre qué mineral le sirve para amplificar sus poderes 
+___
+Existen maneras de matar las personalidades dentro de un mago de luna para dejar solo una con los poderes que necesitan 
