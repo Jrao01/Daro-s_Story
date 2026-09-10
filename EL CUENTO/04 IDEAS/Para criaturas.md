@@ -19,3 +19,7 @@ ___
 El jalapatras
 ___
 Criatura bípeda muy alta que solo puede caminar sosteniendose de los árboles. Los pequeños se sostienen de las piernas de los grandes 
+___
+Animales que reflejan el sol como arma
+___
+Animales eléctricos que tienen pararrayos que descargan la electricidad al suelo 
