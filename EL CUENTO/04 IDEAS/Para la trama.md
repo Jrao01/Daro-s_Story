@@ -35,3 +35,7 @@ ___
 La gente de la isla no quiere tener contacto con el otro mundo porque tienen una larga historia de guerras
 ___
 Cuando las Sanguijuelas descubren la nigromancia ahí si se vuelven un peligro arrecho 
+___
+Luna sufre un accidente en la isla que le desfigura la mitad de la cara
+___
+Al final el protagonista se vuelve demasiado fuerte, un país entero se llena de sus monstruos y nadie puede acercarse 
