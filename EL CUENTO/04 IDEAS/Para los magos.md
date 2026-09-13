@@ -15,3 +15,4 @@ ___
 Existen maneras de matar las personalidades dentro de un mago de luna para dejar solo una con los poderes que necesitan 
 ___
 Magos químicos tienen diferentes varíantes algunas 
+___
