@@ -38,4 +38,4 @@ Cuando las Sanguijuelas descubren la nigromancia ahí si se vuelven un peligro a
 ___
 Luna sufre un accidente en la isla que le desfigura la mitad de la cara
 ___
-Al final el protagonista se vuelve demasiado fuerte, un país entero se llena de sus monstruos y nadie puede acercarse 
+Al final el protagonista se vuelve demasiado fuerte, un país entero se llena de sus monstruos y nadie puede acercarse, su hija desea aprender esta magia para poder...hacer algo(?)
