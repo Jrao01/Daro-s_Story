@@ -10,4 +10,4 @@
 - marioneta hecha solo de manos y brazos
 - alguien escapó de una mina donde consiguió algo muy valioso, se consigue con una doctora que tiene la meta de acabar con las guerras en el mundo 
 - cuarto donde las cadenas respiran, las personas son enviadas a ese calabozo a morir asfixiadas 
-- hacer dibujo en re
+- hacer dibujo en referencia a Miranda en la carraca 
