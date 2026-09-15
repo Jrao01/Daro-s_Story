@@ -16,3 +16,4 @@ Existen maneras de matar las personalidades dentro de un mago de luna para dejar
 ___
 Magos químicos tienen diferentes varíantes algunas 
 ___
+Los magos de luna pueden ver mu lejos 
