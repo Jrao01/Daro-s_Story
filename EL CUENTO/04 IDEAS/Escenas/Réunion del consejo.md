@@ -1,0 +1,1 @@
+Luego de que los guardias que vieron a Siegfried reportaran su aparición el consejo de magos se reúne, deben discutir que de alguna manera los magos de oscuridad han logrado sobrevivir "no me sorprende, esconderse siempre fue su mejor habilidad "dice uno. Alguno duda de si realmente tendrá algo que ver con los antiguos magos de oscuridad 
