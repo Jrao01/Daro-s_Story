@@ -71,3 +71,5 @@ Elka volteó rápidamente a ver a Siegfried con una expresión de curiosidad —
 —No solo ella, pero tú nunca notas esas cosas. Yo lo noto porque soy igual de celoso que tu
 ___
 La scooby pandilla es capturada por los nigromantes, son recibidos por guardias montando esqueletos de criaturas como bisontes
+___
+En medio de una ciudad soldados levantaron barricadas, para acabarlos los enemigos hacen túneles por entre las casas 
