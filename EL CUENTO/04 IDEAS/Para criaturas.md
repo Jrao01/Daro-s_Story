@@ -23,3 +23,5 @@ ___
 Animales que reflejan el sol como arma
 ___
 Animales eléctricos que tienen pararrayos que descargan la electricidad al suelo 
+___
+Animal/hongo como ciempiés que todos sus pies son de otras criaturas que va coleccionando 
