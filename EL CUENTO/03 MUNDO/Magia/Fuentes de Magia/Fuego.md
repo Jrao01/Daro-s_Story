@@ -1,6 +1,6 @@
 Los magos de fuego usan su fuente para aumentar su temperatura corporal y para crear fuego mediante herramientas mágicas, son expertos herreros y con diferencia los que mayor variedad de herramientas tienen 
 
-Catalizador: tungsteno 
+Catalizador: 
 
 # Herramientas 
 Guantes de forja: guantes de armadura que les permiten canalizar fuego a través de sus manos
