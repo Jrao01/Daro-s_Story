@@ -12,3 +12,4 @@
 - cuarto donde las cadenas respiran, las personas son enviadas a ese calabozo a morir asfixiadas 
 - hacer dibujo en referencia a Miranda en la carraca 
 - gavril usa el hisopo gigante como almacén y carpa para dormir
+- contratar una mujer gorda, fea y religiosa 
