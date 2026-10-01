@@ -14,3 +14,5 @@
 - gavril usa el hisopo gigante como almacén y carpa para dormir
 - contratar una mujer gorda, fea y religiosa 
 - los magos se dividen en elementales, cambiantes y espirituales 
+- Animales rojos como serpientes que se enrollan en las piernas de la gente
+- animal negro con demasiados cuernos

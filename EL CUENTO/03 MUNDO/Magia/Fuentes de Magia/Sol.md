@@ -7,4 +7,6 @@ Carecen de habilidades que puedan hacer daño en área, dependiendo principalmen
 
 Los magos de más alto nivel son capaces de invocar rayos de luz que caen el cielo desde la dimensión de la luz 
 
-Tienen una rivalidad constante con los magos de fuego,por considerarse los usuarios de energia termina superiores
+Tienen una rivalidad constante con los magos de fuego,por considerarse los usuarios de energia termina superiores.
+
+Durante el mediodía tienen un poder casi ilimitado, pero deben regulares ellos mismos pues si hacen fluir más energía de la que su cuerpo es capaz de procesar y pueden romperse. Deben entrenar de manera paulatina para ser capaces de controlar más energía 
