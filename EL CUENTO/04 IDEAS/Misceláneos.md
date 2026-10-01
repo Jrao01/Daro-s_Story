@@ -13,3 +13,4 @@
 - hacer dibujo en referencia a Miranda en la carraca 
 - gavril usa el hisopo gigante como almacén y carpa para dormir
 - contratar una mujer gorda, fea y religiosa 
+- los magos se dividen en elementales, cambiantes y espirituales 

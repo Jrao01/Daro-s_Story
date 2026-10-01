@@ -39,3 +39,5 @@ ___
 Luna sufre un accidente en la isla que le desfigura la mitad de la cara
 ___
 Al final el protagonista se vuelve demasiado fuerte, un país entero se llena de sus monstruos y nadie puede acercarse, su hija desea aprender esta magia para poder...hacer algo(?)
+___
+Hacer que crean que los antagonistas necesitan una fecha en específico para lograr algo, que al llegar resulte que era mentira y el mal ya se hizo hace días 
