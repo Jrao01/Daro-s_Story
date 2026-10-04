@@ -12,3 +12,5 @@ La ciudad gobernada los un mago de plantas, con grandes terrazas y templos
 La ciudad en las nubes de los magos de gravedad
 ___
 Bioma con muchos agujeros gigantes en el suelo, animales que viven en colonias los excavan para alimentarse de lo que caiga
+___
+Las paredes de los palacios del reino del sol están llenas de paneles de cristal que crean derritiendo arena con muchos magos del sol de bajo nivel 

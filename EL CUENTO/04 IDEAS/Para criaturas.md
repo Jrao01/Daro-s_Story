@@ -25,3 +25,5 @@ ___
 Animales eléctricos que tienen pararrayos que descargan la electricidad al suelo 
 ___
 Animal/hongo como ciempiés que todos sus pies son de otras criaturas que va coleccionando 
+___
+Animal que expulsa un polvo que adormece para atrapar a sus presas. Las personas que los crian tienen un tono de piel amarillento por la exposición prolongada a esta toxina
