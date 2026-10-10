@@ -17,3 +17,4 @@
 - Animales rojos como serpientes que se enrollan en las piernas de la gente
 - animal negro con demasiados cuernos
 - luna usa una concha de caracol gigante como mochila 
+- camas colgantes
