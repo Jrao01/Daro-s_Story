@@ -14,3 +14,5 @@ ___
 Bioma con muchos agujeros gigantes en el suelo, animales que viven en colonias los excavan para alimentarse de lo que caiga
 ___
 Las paredes de los palacios del reino del sol están llenas de paneles de cristal que crean derritiendo arena con muchos magos del sol de bajo nivel 
+___
+Palacio con innumerables pasillos, los sirvientes pasan su primera semana solo aprendiendo a no perderse
