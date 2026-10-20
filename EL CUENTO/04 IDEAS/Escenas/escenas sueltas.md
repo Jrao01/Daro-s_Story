@@ -75,3 +75,5 @@ ___
 En medio de una ciudad soldados levantaron barricadas, para acabarlos los enemigos hacen túneles por entre las casas 
 ___
 La hija de la maga de sol la llama por su diminutivo dentro del palacio, la vieja se devuelve y la regaña pq en ese momento no es su mamá, es su superior (el diminutivo de nissandra es nisandi)
+___
+Pasan por un túnel secreto, una araña pica a alguien, la picada luego se infecta
