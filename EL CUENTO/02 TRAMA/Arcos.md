@@ -1,4 +1,5 @@
 Descubre el libro 
+Con ayuda de gavril lee
 Descubre que puede aprender magia 
 Empieza su viaje 
 Conoce a nissa
@@ -39,6 +40,7 @@ Descubren que tienen rituales especiales que sirven para cambiar tu tipo de magi
 Los más novatos deciden someterse a este tratamiento 
 Ahora tienen nuevos tipos de magos en el equipo
 También hay magos de oscuridad pero viven en niveles más altos de la isla
-Ellos tienen ataques mágicos 
-Debe arriesgarse para llegar a ellos y llevarse a su novia y a la traductora 
+Debe arriesgarse para llegar a ellos 
+Descubren que en la isla también hay sanguielas que saben usar nigromancia
+Los magos de oscuridad ™ le enseñan que para alcanzar el máximo poder debe quitarse los ojos
 
