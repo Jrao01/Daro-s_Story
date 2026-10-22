@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/04 IDEAS/Escenas/escenas sueltas.md",
+                "file": "EL CUENTO/03 MUNDO/Personajes/Grigori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "escenas sueltas"
+              "title": "Grigori"
             }
           }
         ]
@@ -171,32 +171,33 @@
   },
   "active": "3eacb13676f02777",
   "lastOpenFiles": [
-    "EL CUENTO/02 TRAMA/00 MDC trama.md",
+    "EL CUENTO/03 MUNDO/Personajes/Amadeus.md",
+    "EL CUENTO/03 MUNDO/Personajes/Grigori.md",
+    "EL CUENTO/06 REFERENCIAS/Nombres.md",
+    "EL CUENTO/03 MUNDO/Personajes/Untitled",
+    "EL CUENTO/03 MUNDO/Personajes/Atanasia.md",
+    "EL CUENTO/03 MUNDO/Criaturas.md",
+    "EL CUENTO/03 MUNDO/Personajes/Virgilio.md",
+    "EL CUENTO/03 MUNDO/Personajes/Orsolya.md",
+    "EL CUENTO/03 MUNDO/Personajes/Luna - lider.md",
+    "EL CUENTO/03 MUNDO/Personajes/Janka.md",
+    "EL CUENTO/03 MUNDO/Personajes/Ionascu.md",
+    "EL CUENTO/03 MUNDO/Personajes/Emanoil.md",
+    "EL CUENTO/03 MUNDO/Personajes/Dragomir.md",
+    "EL CUENTO/03 MUNDO/Personajes/Agria.md",
+    "EL CUENTO/02 TRAMA/Arcos.md",
+    "EL CUENTO/03 MUNDO/Personajes/Narsés.md",
+    "EL CUENTO/02 TRAMA/Linea temporal.md",
+    "EL CUENTO/02 TRAMA/Estructura de 7 puntos.md",
     "EL CUENTO/04 IDEAS/Escenas/escenas sueltas.md",
+    "EL CUENTO/02 TRAMA/00 MDC trama.md",
     "EL CUENTO/04 IDEAS/Para los magos.md",
     "EL CUENTO/04 IDEAS/Para Lugares.md",
     "EL CUENTO/04 IDEAS/Para criaturas.md",
     "EL CUENTO/04 IDEAS/Misceláneos.md",
-    "EL CUENTO/03 MUNDO/Personajes/Virgilius.md",
     "EL CUENTO/04 IDEAS/Lluvia de ideas.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Plantas.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Animales.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Sol.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Oscuridad.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Viento.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Nigromancia.md",
-    "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia/Fuego.md",
-    "EL CUENTO/04 IDEAS/Para la trama.md",
-    "EL CUENTO/04 IDEAS/Niveles de la isla.md",
-    "EL CUENTO/04 IDEAS/Nombres de las cosas.md",
-    "EL CUENTO/04 IDEAS/Para la Magia.md",
-    "EL CUENTO/04 IDEAS/Para personajes.md",
-    "EL CUENTO/04 IDEAS/Religiones.md",
-    "EL CUENTO/04 IDEAS/Escenas/Luna se va.md",
-    "EL CUENTO/04 IDEAS/Escenas/Encuentro con nomis.md",
-    "EL CUENTO/04 IDEAS/Escenas/Réunion del consejo.md",
-    "EL CUENTO/03 MUNDO/Personajes/Gavril.md",
-    "EL CUENTO/03 MUNDO/Personajes/Emanoil.md",
     "EL CUENTO/04 IDEAS/Escenas",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de Magia",
     "01 - MANUSCRITO",
@@ -205,7 +206,6 @@
     "EL CUENTO/03 MUNDO/Magia",
     "EL CUENTO/04 IDEAS",
     "EL CUENTO/07 PLANTILLAS",
-    "EL CUENTO/06 REFERENCIAS",
-    "EL CUENTO/05 PREGUNTAS"
+    "EL CUENTO/06 REFERENCIAS"
   ]
 }
