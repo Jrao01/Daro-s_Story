@@ -1,3 +1,4 @@
+# primer arco
 Descubre el libro 
 Con ayuda de gavril lee
 Descubre que puede aprender magia 
@@ -12,8 +13,9 @@ Ahora sabe dónde puede ir a traducir su libro
 Encuentra como traducir su libro
 Mata por error a los magos de luna porque ellos pueden verlo, no puede ocultarse 
 Más personas están en su contra ahora 
-Escapando llegan a conocer a nomis
-2
+
+
+# segundo arco
 Escapando llegan a conocer a nomis
 Nueva reunión del consejo para hablar del tema 
 Se empiezan a formar los bandos que están a favor y en contra de prota 
@@ -21,7 +23,7 @@ Prota empieza a dominar más sus habilidades
 Se descubre la traición del sol
 Conoce a su novia la gata
 
-3
+# tercer arco
 Al enfrentarse a un mago atómico amigo muere para salvar a amiga
 La forma en la que muere se parece mucho a la que murió la familia 
 Prota decide infiltrarse e investigar 
@@ -34,7 +36,7 @@ Parece que pueden ganar
 Pierden muchas personas, los gremios deciden expulsar a los que se hayan aliado con el prota para no verse envueltos con eso y salvarse 
 Deciden exiliarse al nuevo continente 
 
-4
+# cuarto arco
 En el nuevo continente descubren magos de gravedad, y otros tipos de magos
 Descubren que tienen rituales especiales que sirven para cambiar tu tipo de magia
 Los más novatos deciden someterse a este tratamiento 
