@@ -623,107 +623,1041 @@ Notas sobre nombres nórdicos:
 ## Región Ibérica (España y Portugal, siglo XVI)
 
 
-Masculinos (comunes)
 
-1. Juan
-2. Pedro
-3. Diego
+Nombres masculinos (500)
+
+Tradicionales y comunes en pueblos españoles (1-100)
+
+1. Antonio
+2. José
+3. Manuel
 4. Francisco
-5. Antonio
-6. José
+5. Juan
+6. Pedro
 7. Miguel
-8. Manuel
-9. Alfonso
-10. Fernando
-11. Rodrigo
-12. Gonzalo
-13. Alonso
-14. Andrés
-15. Gabriel
-16. Rafael
-17. Martín
-18. Vicente
-19. Domingo
-20. Tomás
-21. Nicolás
-22. Mateo
-23. Simón
-24. Luis
-25. Carlos
-26. Felipe
-27. Esteban
-28. Cristóbal
-29. Sebastián
-30. Salvador
+8. Ángel
+9. Luis
+10. Carlos
+11. Jesús
+12. Javier
+13. Rafael
+14. Fernando
+15. Santiago
+16. Ramón
+17. Pablo
+18. Andrés
+19. Joaquín
+20. Vicente
+21. Domingo
+22. Emilio
+23. Salvador
+24. Felipe
+25. Eduardo
+26. Alberto
+27. Enrique
+28. Julio
+29. Gregorio
+30. Tomás
+31. Agustín
+32. Nicolás
+33. Sebastián
+34. Félix
+35. Matías
+36. Bernardo
+37. Ignacio
+38. Alfredo
+39. Arturo
+40. Basilio
+41. Ceferino
+42. Damián
+43. Eloy
+44. Eustaquio
+45. Fidel
+46. Genaro
+47. Hilario
+48. Isidro
+49. Justo
+50. Laureano
+51. Marcelino
+52. Modesto
+53. Norberto
+54. Olegario
+55. Prudencio
+56. Quintín
+57. Rogelio
+58. Sabino
+59. Teodoro
+60. Valeriano
+61. Wenceslao
+62. Zacarías
+63. Abundio
+64. Alejo
+65. Amador
+66. Anselmo
+67. Apolinar
+68. Avelino
+69. Baldomero
+70. Benigno
+71. Casimiro
+72. Celestino
+73. Cirilo
+74. Claudio
+75. Cornelio
+76. Dionisio
+77. Donato
+78. Epifanio
+79. Eusebio
+80. Fabián
+81. Fausto
+82. Fermín
+83. Florencio
+84. Fulgencio
+85. Gervasio
+86. Herminio
+87. Higinio
+88. Inocencio
+89. Ireneo
+90. Leandro
+91. Leoncio
+92. Macario
+93. Marcial
+94. Mauricio
+95. Melchor
+96. Nicanor
+97. Onofre
+98. Pascual
+99. Plácido
+100. Raimundo
 
-Femeninos (comunes)
+Nombres visigodos y germánicos (101-150)
 
-1. María
-2. Ana
-3. Catalina
-4. Isabel
-5. Juana
-6. Teresa
-7. Clara
-8. Inés
-9. Leonor
-10. Beatriz
-11. Margarita
-12. Elena
-13. Francisca
-14. Antonia
-15. Josefa
-16. Luisa
-17. Marta
-18. Rosa
-19. Agustina
-20. Manuela
-21. Paula
-22. Vicenta
-23. Andrea
-24. Ramona
-25. Juliana
-26. Tomasa
-27. Eulalia
-28. Petrona
-29. Damiana
-30. Magdalena
+101. Alfonso
+102. Álvaro
+103. Bermudo
+104. Favila
+105. Fruela
+106. Ordoño
+107. Ramiro
+108. Rodrigo
+109. Sancho
+110. Wamba
+111. Recesvinto
+112. Chindasvinto
+113. Sisebuto
+114. Suintila
+115. Teudis
+116. Turismundo
+117. Walia
+118. Hermenegildo
+119. Recaredo
+120. Liuva
+121. Gundemaro
+122. Sisenando
+123. Tulga
+124. Egica
+125. Witiza
+126. Achila
+127. Agila
+128. Atanagildo
+129. Leovigildo
+130. Teodomiro
+131. Ardabasto
+132. Borja (de origen discutido, pero usado)
+133. Froilán
+134. Gundisalvo (Gonzalo)
+135. Hermigildo
+136. Ildefonso
+137. Leodegario
+138. Munio
+139. Nuño
+140. Ordoño II (nombre repetido por tradición)
+141. Pelayo
+142. Recaredo II
+143. Sisnando
+144. Teobaldo
+145. Wifredo
+146. Adosindo
+147. Alarico
+148. Atanarico
+149. Eurico
+150. Teodorico
 
-Masculinos (no tan comunes)
+Nombres del siglo XVIII y antiguos (151-200)
 
-1. Blas
-2. Gaspar
-3. Melchor
-4. Baltasar
-5. Anselmo
-6. Bonifacio
-7. Celestino
-8. Dimas
-9. Evaristo
-10. Fulgencio
+151. Balthasar
+152. Melitón
+153. Custodio
+154. Epifanio (repetido, pero común en la época)
+155. Fulgencio (repetido)
+156. Hermógenes
+157. Ildefonso (repetido)
+158. Leocadio
+159. Marcelo
+160. Nemesio
+161. Orencio
+162. Patricio
+163. Quintiliano
+164. Restituto
+165. Saturio
+166. Torcuato
+167. Ursicino
+168. Venancio
+169. Wenceslao (repetido)
+170. Zenón
+171. Acacio
+172. Adeodato
+173. Agapito
+174. Anastasio
+175. Bricio
+176. Cipriano
+177. Dámaso
+178. Eladio
+179. Eulogio
+180. Fructuoso
+181. Gumersindo
+182. Heliodoro
+183. Indalecio
+184. Julián
+185. Longinos
+186. Malaquías
+187. Nereo
+188. Onesíforo
+189. Ponciano
+190. Quirico
+191. Rufino
+192. Servando
+193. Tiburcio
+194. Ubaldo
+195. Virgilio
+196. Ximeno (antiguo)
+197. Yago (antiguo)
+198. Zacarías (repetido)
+199. Abdón
+200. Abilio
 
-Femeninos (no tan comunes)
+Nombres excéntricos, raros o poco comunes (201-300)
 
-1. Dulcinea
-2. Leonor
-3. Elvira
-4. Jimena
-5. Urraca
-6. Sancha
-7. Aldonza
-8. Constanza
-9. Violante
-10. Mencía
+201. Aitor
+202. Aday
+203. Adaya (aunque suele ser femenino, usado en Canarias)
+204. Aingeru
+205. Aitor (repetido)
+206. Aladino
+207. Alam
+208. Alan
+209. Alarico (repetido)
+210. Albano
+211. Alberico
+212. Alcides
+213. Aldán
+214. Aleixo
+215. Alen
+216. Alesander
+217. Alex
+218. Alf
+219. Alfeo
+220. Alí
+221. Alipio
+222. Almanzor
+223. Alonso
+224. Altair
+225. Alvar
+226. Amadeo
+227. Amalio
+228. Amán
+229. Amaro
+230. Ambrosio
+231. Américo
+232. Amílcar
+233. Amín
+234. Amós
+235. Anacleto
+236. Ananías
+237. Ancor
+238. Ander
+239. Andoni
+240. Aníbal
+241. Ansel
+242. Antelmo
+243. Antenor
+244. Antero
+245. Antidio
+246. Antolín
+247. Antonino
+248. Anxo
+249. Aparicio
+250. Apolo
+251. Aquiles
+252. Arán
+253. Arcadio
+254. Argenis
+255. Argimiro
+256. Ariadno (raro)
+257. Ariberto
+258. Ariel
+259. Aristeo
+260. Aristóbulo
+261. Arnaldo
+262. Arsenio
+263. Artemio
+264. Ascensio
+265. Astor
+266. Atanasio
+267. Atilio
+268. Atlas
+269. Aureliano
+270. Aurelio
+271. Ausencio
+272. Austin
+273. Axel
+274. Ayax
+275. Azarías
+276. Azrael
+277. Baltasar (variante)
+278. Baruc
+279. Basileo
+280. Beltrán
+281. Benicio
+282. Benjamín
+283. Berenguer
+284. Bernabé
+285. Bertín
+286. Betuel
+287. Blas
+288. Boanerges
+289. Bonifacio
+290. Borja
+291. Braulio
+292. Breno
+293. Bruno
+294. Bucardo
+295. Buda (raro)
+296. Caino
+297. Calixto
+298. Camilo
+299. Cándido
+300. Carim
 
-Notas sobre nombres ibéricos:
+Más nombres masculinos (301-500)
 
-· Los nombres de santos eran predominantes en el siglo XVI.
-· Los nombres que comienzan con "Al-" suelen tener origen árabe (ej. Alonso, del germánico pero adaptado).
-· Los nombres compuestos con María + (otro nombre) eran muy comunes en las mujeres.
-· La influencia de la Reconquista y la Iglesia Católica definió las tendencias onomásticas.
-· En la península ibérica, los nombres de origen visigodo (como Fernando, Rodrigo) coexistían con los de origen latino y bíblico.
+301. Carlomagno
+302. Carmelo
+303. Casiano
+304. Casto
+305. Cayetano
+306. Cecilio
+307. Ceferino (repetido)
+308. Celso
+309. César
+310. Ciro
+311. Clodomiro
+312. Clotario
+313. Colás
+314. Conan
+315. Conrado
+316. Constantino
+317. Cosme
+318. Crisanto
+319. Crisóstomo
+320. Cristóbal
+321. Cuauhtémoc (usado en México)
+322. Dacio
+323. Dagoberto
+324. Dalmiro
+325. Damián (repetido)
+326. Daniel
+327. Darío
+328. David
+329. Decio
+330. Demetrio
+331. Desiderio
+332. Diego
+333. Diodoro
+334. Diógenes
+335. Dionisio (repetido)
+336. Domiciano
+337. Donaciano
+338. Doroteo
+339. Duilio
+340. Eberardo
+341. Edelmiro
+342. Edgardo
+343. Edmundo
+344. Eduardo (repetido)
+345. Efesio
+346. Efrén
+347. Egidio
+348. Elías
+349. Eliezer
+350. Eligio
+351. Elio
+352. Elipio
+353. Eliseo
+354. Eloy (repetido)
+355. Elpidio
+356. Elvio
+357. Emanuel
+358. Emeterio
+359. Emigdio
+360. Emiliano
+361. Emilio (repetido)
+362. Enoc
+363. Enrico
+364. Eneas
+365. Epifanio (repetido)
+366. Erasmo
+367. Erasto
+368. Eriberto
+369. Eric
+370. Ernesto
+371. Esdras
+372. Esiquio
+373. Espartaco
+374. Estanislao
+375. Esteban
+376. Estratón
+377. Eugenio
+378. Eulalio
+379. Eusebio (repetido)
+380. Eustasio
+381. Evaristo
+382. Evelio
+383. Exequiel
+384. Ezequiel
+385. Fabio
+386. Fabricio
+387. Facundo
+388. Fandila
+389. Faustino
+390. Federico
+391. Feliciano
+392. Felipe (repetido)
+393. Félix (repetido)
+394. Fermín (repetido)
+395. Fernando (repetido)
+396. Festo
+397. Fidel (repetido)
+398. Filemón
+399. Filomeno
+400. Flavio
+401. Florencio (repetido)
+402. Florentino
+403. Fortunato
+404. Francisco (repetido)
+405. Froilán (repetido)
+406. Fulberto
+407. Gabino
+408. Gabriel
+409. Galaad
+410. Galo
+411. Gedeón
+412. Genaro (repetido)
+413. Gerardo
+414. Germán
+415. Gervasio (repetido)
+416. Gilberto
+417. Glicerio
+418. Godofredo
+419. Gonzalo
+420. Gordiano
+421. Gorio
+422. Gregorio (repetido)
+423. Gudelio
+424. Guillermo
+425. Gustavo
+426. Guzmán
+427. Hades (raro)
+428. Hamlet
+429. Harón
+430. Héctor
+431. Heliodoro (repetido)
+432. Hemeterio
+433. Heraclio
+434. Herberto
+435. Hermán
+436. Hermenegildo (repetido)
+437. Hermes
+438. Herminio (repetido)
+439. Hernán
+440. Herodes (raro)
+441. Herón
+442. Higinio (repetido)
+443. Hilarión
+444. Hilario (repetido)
+445. Hipólito
+446. Homero
+447. Honorio
+448. Horacio
+449. Hortencio
+450. Hugo
+451. Humberto
+452. Ibrahim
+453. Ignacio (repetido)
+454. Ildefonso (repetido)
+455. Indalecio (repetido)
+456. Inocencio (repetido)
+457. Ireneo (repetido)
+458. Irineo
+459. Isaac
+460. Isaías
+461. Isidoro
+462. Ismael
+463. István
+464. Iván
+465. Jacobo
+466. Jaime
+467. Jairo
+468. Jasón
+469. Javier (repetido)
+470. Jeremías
+471. Jerónimo
+472. Jesús (repetido)
+473. Joaquín (repetido)
+474. Job
+475. Joel
+476. Jonás
+477. Jonathan
+478. Jorge
+479. Josafat
+480. José (repetido)
+481. Josué
+482. Juan (repetido)
+483. Julián (repetido)
+484. Julio (repetido)
+485. Justino
+486. Justo (repetido)
+487. Juventino
+488. Kaled
+489. Karim
+490. Kevin
+491. Kosme
+492. Ládano
+493. Lamberto
+494. Landelino
+495. Lázaro
+496. Leandro (repetido)
+497. Leonardo
+498. Leoncio (repetido)
+499. Leonel
+500. Leopoldo
 
----
+Nombres femeninos (500)
+
+Tradicionales y comunes en pueblos españoles (501-600)
+
+501. María
+502. Carmen
+503. Josefa
+504. Isabel
+505. Ana
+506. Dolores
+507. Pilar
+508. Teresa
+509. Rosa
+510. Francisca
+511. Antonia
+512. Mercedes
+513. Julia
+514. Lucía
+515. Elena
+516. Manuela
+517. Concepción
+518. Inmaculada
+519. Rosario
+520. Emilia
+521. Clara
+522. Marta
+523. Beatriz
+524. Laura
+525. Cristina
+526. Silvia
+527. Patricia
+528. Raquel
+529. Sonia
+530. Yolanda
+531. Amparo
+532. Begoña
+533. Esther
+534. Eva
+535. Gloria
+536. Irene
+537. Lourdes
+538. Montserrat
+539. Nuria
+540. Olga
+541. Purificación
+542. Remedios
+543. Sandra
+544. Susana
+545. Verónica
+546. Virginia
+547. Agustina
+548. Alejandra
+549. Alicia
+550. Almudena
+551. Ángela
+552. Asunción
+553. Aura
+554. Aurora
+555. Basilisa
+556. Bernarda
+557. Blanca
+558. Candida
+559. Caridad
+560. Casilda
+561. Cecilia
+562. Celia
+563. Cinta
+564. Consuelo
+565. Cruz
+566. Delfina
+567. Divina
+568. Dorotea
+569. Edelmira
+570. Elvira
+571. Encarnación
+572. Enriqueta
+573. Esperanza
+574. Estrella
+575. Eulalia
+576. Eusebia
+577. Feliciana
+578. Felisa
+579. Fermina
+580. Florentina
+581. Generosa
+582. Gertrudis
+583. Herminia
+584. Hortensia
+585. Ignacia
+586. Jacinta
+587. Joaquina
+588. Josefa (repetido)
+589. Juanita
+590. Juliana
+591. Leocadia
+592. Leonor
+593. Lidia
+594. Lorenza
+595. Luisa
+596. Macarena
+597. Magdalena
+598. Marcelina
+599. Margarita
+600. Martina
+
+Nombres visigodos y germánicos (601-650)
+
+601. Adosinda
+602. Egilona
+603. Elvira (repetido)
+604. Ermesinda
+605. Favila (femenino raro)
+606. Froiluba
+607. Galswintha
+608. Gontroda
+609. Gosvinta
+610. Gudilia
+611. Hermenegilda
+612. Hispana
+613. Ilduara
+614. Leodegundia
+615. Leovigilda
+616. Munia
+617. Munidona
+618. Nuña
+619. Onneca
+620. Paterna
+621. Pelaya
+622. Recareda
+623. Riquilda
+624. Sancha
+625. Sisebuta
+626. Teodora
+627. Toda
+628. Urraca
+629. Velasquita
+630. Wifreda
+631. Ximena
+632. Aldonza
+633. Berenguela
+634. Blasquita
+635. Cuntroda
+636. Elo
+637. Fakilo
+638. Gontrode
+639. Ildonza
+640. Jimena
+641. Legundia
+642. Mafalda
+643. Nuna
+644. Oneca
+645. Petronila
+646. Sancha (repetido)
+647. Teresa (repetido)
+648. Urraca (repetido)
+649. Velasquita (repetido)
+650. Ximena (repetido)
+
+Nombres del siglo XVIII y antiguos (651-700)
+
+651. Águeda
+652. Afecta
+653. Agapita
+654. Anastasia
+655. Apolonia
+656. Aquilina
+657. Arcadia
+658. Arsenia
+659. Aurelia
+660. Balbina
+661. Basilia
+662. Benita
+663. Bibiana
+664. Brígida
+665. Calixta
+666. Casimira
+667. Cayetana
+668. Ceferina
+669. Celestina
+670. Cesárea
+671. Cirila
+672. Clementina
+673. Clotilde
+674. Constanza
+675. Cornelia
+676. Custodia
+677. Dámasa
+678. Delfina (repetido)
+679. Desamparados
+680. Dominga
+681. Donata
+682. Edesia
+683. Efigenia
+684. Eladia
+685. Eloísa
+686. Elpidia
+687. Emerenciana
+688. Eufemia
+689. Eufrasia
+690. Eulogia
+691. Eustoquia
+692. Evarista
+693. Exuperancia
+694. Fabiana
+695. Faustina
+696. Felicidad
+697. Fidencia
+698. Filomena
+699. Firmina
+700. Flavia
+
+Nombres excéntricos, raros o poco comunes (701-800)
+
+701. Abigaíl
+702. Adelaida
+703. Adoración
+704. África
+705. Aglae
+706. Aída
+707. Ainhoa
+708. Alba
+709. Alcira
+710. Aldara
+711. Alegría
+712. Alejandra (repetido)
+713. Alesia
+714. Alina
+715. Alondra
+716. Altagracia
+717. Altea
+718. Amada
+719. Amalia
+720. Amaya
+721. Amelia
+722. Amparo (repetido)
+723. Anaís
+724. Anabel
+725. Anahí
+726. Anastasia (repetido)
+727. Andrómeda
+728. Anel
+729. Ángeles
+730. Angustias
+731. Aniana
+732. Anisia
+733. Antígona
+734. Apolonia (repetido)
+735. Araceli
+736. Aránzazu
+737. Arcángela
+738. Ares
+739. Argentina
+740. Ariadna
+741. Aritza
+742. Arminda
+743. Artemia
+744. Astrid
+745. Atalanta
+746. Atenea
+747. Athziri
+748. Azahara
+749. Azucena
+750. Beatriz (repetido)
+751. Belén
+752. Berenice
+753. Bernardita
+754. Betsabé
+755. Bianca
+756. Blancaflor
+757. Bodil
+758. Borja (femenino raro)
+759. Brisa
+760. Brunilda
+761. Cala
+762. Calipso
+763. Camelia
+764. Camila
+765. Candela
+766. Carina
+767. Carlota
+768. Casandra
+769. Catalina
+770. Cayetana (repetido)
+771. Ceiba
+772. Celeste
+773. Célica
+774. Cendrina
+775. Cintia
+776. Citlali
+777. Cloe
+778. Clotilde (repetido)
+779. Coral
+780. Corina
+781. Cristina (repetido)
+782. Dafne
+783. Dalia
+784. Dánae
+785. Daria
+786. Débora
+787. Delia
+788. Delfina (repetido)
+789. Demetria
+790. Diamante
+791. Diana
+792. Digna
+793. Dina
+794. Dionisia
+795. Dolores (repetido)
+796. Dulce
+797. Ebana
+798. Edurne
+799. Eider
+800. Elba
+
+Más nombres femeninos (801-1000)
+
+801. Electra
+802. Elena (repetido)
+803. Eliana
+804. Elisa
+805. Eloína
+806. Elsa
+807. Elvira (repetido)
+808. Emérita
+809. Emilia (repetido)
+810. Emperatriz
+811. Encarna
+812. Enma
+813. Enriqueta (repetido)
+814. Eos
+815. Erea
+816. Eritrea
+817. Ermelinda
+818. Ernestina
+819. Esmeralda
+820. Esperanza (repetido)
+821. Estela
+822. Estíbaliz
+823. Ester
+824. Etelvina
+825. Eufemia (repetido)
+826. Eugenia
+827. Eulalia (repetido)
+828. Eusebia (repetido)
+829. Eva (repetido)
+830. Evangelina
+831. Evelia
+832. Evodia
+833. Fabiola
+834. Fátima
+835. Federica
+836. Felicia
+837. Felipa
+838. Fina
+839. Fiona
+840. Flavia (repetido)
+841. Florencia
+842. Florinda
+843. Fortunata
+844. Frida
+845. Fuensanta
+846. Gabriela
+847. Gala
+848. Galatea
+849. Gemma
+850. Genoveva
+851. Georgina
+852. Gisela
+853. Giselle
+854. Gladys
+855. Glenda
+856. Gloria (repetido)
+857. Godiva
+858. Graciela
+859. Griselda
+860. Guadalupe
+861. Guillermina
+862. Gumersinda
+863. Gustava
+864. Haideé
+865. Haydée
+866. Helena
+867. Hermelinda
+868. Herminia (repetido)
+869. Hilda
+870. Hildegarda
+871. Hipólita
+872. Hortensia (repetido)
+873. Idalia
+874. Idoya
+875. Ignacia (repetido)
+876. Ildefonsa
+877. Imelda
+878. Imperio
+879. Inés
+880. Ingrid
+881. Irene (repetido)
+882. Iris
+883. Irma
+884. Isaura
+885. Isidora
+886. Isolda
+887. Itziar
+888. Izarbe
+889. Jacinta (repetido)
+890. Javiera
+891. Jennifer
+892. Jerónima
+893. Jimena
+894. Joaquina (repetido)
+895. Jordana
+896. Josefa (repetido)
+897. Jovita
+898. Juana
+899. Judith
+900. Julia (repetido)
+901. Juliana (repetido)
+902. Julieta
+903. Justa
+904. Justina
+905. Karen
+906. Karina
+907. Laura (repetido)
+908. Lea
+909. Leandra
+910. Leocadia (repetido)
+911. Leoncia
+912. Leonia
+913. Leonor (repetido)
+914. Leticia
+915. Leyre
+916. Lía
+917. Lidia (repetido)
+918. Ligia
+919. Liliana
+920. Linda
+921. Livia
+922. Lola
+923. Lorena
+924. Lourdes (repetido)
+925. Lucía (repetido)
+926. Luciana
+927. Lucrecia
+928. Ludivina
+929. Luisa (repetido)
+930. Luz
+931. Macaria
+932. Macarena (repetido)
+933. Magdalena (repetido)
+934. Maite
+935. Malena
+936. Manuela (repetido)
+937. Mar
+938. Marcela
+939. Marcelina (repetido)
+940. Margarita (repetido)
+941. Mariana
+942. Maribel
+943. Mariela
+944. Marina
+945. Marisa
+946. Marisol
+947. Marta (repetido)
+948. Martina (repetido)
+949. Máxima
+950. Maya
+951. Melania
+952. Melisa
+953. Mercedes (repetido)
+954. Micaela
+955. Milagros
+956. Minerva
+957. Miranda
+958. Mónica
+959. Montserrat (repetido)
+960. Muriel
+961. Nadia
+962. Natalia
+963. Nerea
+964. Nieves
+965. Noelia
+966. Noemí
+967. Nora
+968. Norma
+969. Nuria (repetido)
+970. Obdulia
+971. Octavia
+972. Odalys
+973. Ofelia
+974. Olga (repetido)
+975. Olivia
+976. Ornella
+977. Orosia
+978. Osana
+979. Palmira
+980. Paloma
+981. Pamela
+982. Paola
+983. Patricia (repetido)
+984. Paula
+985. Paz
+986. Penélope
+987. Perla
+988. Petra
+989. Piedad
+990. Pilar (repetido)
+991. Prima
+992. Purificación (repetido)
+993. Quintina
+994. Rafaela
+995. Ramona
+996. Raquel (repetido)
+997. Rebeca
+998. Regina
+999. Remedios (repetido)
+1000. Renata
+
 
 # Rumania 
 
@@ -815,7 +1749,7 @@ Apellidos y nombres de familia (Boyardos)
 · Iván III el Grande (príncipe)
 · Dmitri Donskoi
 · Yuri Danílovichi
-# Hungary 
+#  Hungary 
 A
 Ábel, Ádám, Adorján, Ágoston, Ajtony, Ákos, Aladár, Alajos, Albert, Alfréd, Álmos, Ambrus, Anasztáz, Andor, Andorjás, András, Antal, Apor, Árkos, Áron, Árpád, Artúr, Attila, Aurél.
 
