@@ -18,3 +18,4 @@
 - animal negro con demasiados cuernos
 - luna usa una concha de caracol gigante como mochila 
 - camas colgantes
+- Teodosio, Valeriano, Quírico
