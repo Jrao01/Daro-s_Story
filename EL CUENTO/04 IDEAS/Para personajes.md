@@ -3,3 +3,5 @@ ___
 Un artista y su mujer, el no está enamorado de ella, está enamorado del arte que hace de ella
 ___
 Un personaje que siempre trata de salir victorioso ante los demás, aún cuando no es una competencia 
+___
+Un hombre excéntrico de aspecto ridículo pero respetado por el líder por lo mucho que sabe y su ingenio 
