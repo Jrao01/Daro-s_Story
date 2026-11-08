@@ -29,3 +29,5 @@ ___
 Animal que expulsa un polvo que adormece para atrapar a sus presas. Las personas que los crian tienen un tono de piel amarillento por la exposición prolongada a esta toxina
 ___
 Caballo con plumas hacia atrás en la cabeza
+___
+Animales que solo comen comida descompuesta, reúnen todo lo que cazan en montones y lo dejan pudrirse 
