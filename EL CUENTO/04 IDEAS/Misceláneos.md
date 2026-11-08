@@ -19,3 +19,4 @@
 - luna usa una concha de caracol gigante como mochila 
 - camas colgantes
 - Teodosio, Valeriano, Quírico
+- enfermedad que brota por los ojos
